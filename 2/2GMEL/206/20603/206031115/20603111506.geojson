@@ -1,0 +1,59 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            144.937040405,
+                            -37.7888560289999
+                        ],
+                        [
+                            144.936285037,
+                            -37.788775277
+                        ],
+                        [
+                            144.936551742,
+                            -37.787220648
+                        ],
+                        [
+                            144.937456723,
+                            -37.7873099289999
+                        ],
+                        [
+                            144.937236117,
+                            -37.788616251
+                        ],
+                        [
+                            144.937112492,
+                            -37.7887255489999
+                        ],
+                        [
+                            144.937040405,
+                            -37.7888560289999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "c8cc6960-6334-572f-b269-d561ada978c9",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "347b4464-c2d1-5851-81c6-3c46c3ba4872",
+    "properties": {
+        "gccsa_code": "2GMEL",
+        "gccsa_name": "Greater Melbourne",
+        "sa1_code": "20603111506",
+        "sa2_code": "206031115",
+        "sa2_name": "Flemington",
+        "sa3_code": "20603",
+        "sa3_name": "Essendon",
+        "sa4_code": "206",
+        "sa4_name": "Melbourne - Inner",
+        "state_code": "2",
+        "state_name": "Victoria"
+    },
+    "type": "FeatureCollection"
+}

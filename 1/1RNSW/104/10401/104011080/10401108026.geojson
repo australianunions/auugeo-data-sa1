@@ -1,0 +1,59 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            152.939462063,
+                            -29.6774772869999
+                        ],
+                        [
+                            152.938396993,
+                            -29.676820999
+                        ],
+                        [
+                            152.939770999,
+                            -29.675096004
+                        ],
+                        [
+                            152.9413578,
+                            -29.676087067
+                        ],
+                        [
+                            152.941971219,
+                            -29.676463745
+                        ],
+                        [
+                            152.940574072,
+                            -29.678169335
+                        ],
+                        [
+                            152.939462063,
+                            -29.6774772869999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "2f666249-25e1-5b4c-9329-b2a57066ccf8",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "c7507cd1-ad08-5a64-9a20-f97eee463e70",
+    "properties": {
+        "gccsa_code": "1RNSW",
+        "gccsa_name": "Rest of NSW",
+        "sa1_code": "10401108026",
+        "sa2_code": "104011080",
+        "sa2_name": "Grafton",
+        "sa3_code": "10401",
+        "sa3_name": "Clarence Valley",
+        "sa4_code": "104",
+        "sa4_name": "Coffs Harbour - Grafton",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

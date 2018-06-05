@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            149.129714995,
+                            -35.270236004
+                        ],
+                        [
+                            149.130727687,
+                            -35.270345135
+                        ],
+                        [
+                            149.130663995,
+                            -35.2707399989999
+                        ],
+                        [
+                            149.130287716,
+                            -35.273068113
+                        ],
+                        [
+                            149.129284988,
+                            -35.272959999
+                        ],
+                        [
+                            149.128733145,
+                            -35.272899985
+                        ],
+                        [
+                            149.128825016,
+                            -35.2723290009999
+                        ],
+                        [
+                            149.129065076,
+                            -35.270847466
+                        ],
+                        [
+                            149.129173079,
+                            -35.270177044
+                        ],
+                        [
+                            149.129714995,
+                            -35.270236004
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "941e99f4-7d84-55c7-bcc3-77c973b992bb",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "75a75ccf-0645-547a-950e-205d18deded9",
+    "properties": {
+        "gccsa_code": "8ACTE",
+        "gccsa_name": "Australian Capital Territory",
+        "sa1_code": "80105106010",
+        "sa2_code": "801051060",
+        "sa2_name": "Turner",
+        "sa3_code": "80105",
+        "sa3_name": "North Canberra",
+        "sa4_code": "801",
+        "sa4_name": "Australian Capital Territory",
+        "state_code": "8",
+        "state_name": "Australian Capital Territory"
+    },
+    "type": "FeatureCollection"
+}

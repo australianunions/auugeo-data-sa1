@@ -1,0 +1,63 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            150.94221119,
+                            -33.878095833
+                        ],
+                        [
+                            150.94271124,
+                            -33.8773083259999
+                        ],
+                        [
+                            150.94575972,
+                            -33.879149464
+                        ],
+                        [
+                            150.945148783,
+                            -33.8798565889999
+                        ],
+                        [
+                            150.944847293,
+                            -33.8802104019999
+                        ],
+                        [
+                            150.944544087,
+                            -33.8805663599999
+                        ],
+                        [
+                            150.941724718,
+                            -33.878855573
+                        ],
+                        [
+                            150.94221119,
+                            -33.878095833
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "ddd42b91-cee9-5427-af7c-c4af121bc11c",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "b093edad-b412-5ccc-98b0-23d36f386146",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "12702151540",
+        "sa2_code": "127021515",
+        "sa2_name": "Fairfield",
+        "sa3_code": "12702",
+        "sa3_name": "Fairfield",
+        "sa4_code": "127",
+        "sa4_name": "Sydney - South West",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

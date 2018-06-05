@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            135.224976996,
+                            -21.687901008
+                        ],
+                        [
+                            135.224968017,
+                            -21.664916997
+                        ],
+                        [
+                            135.210809995,
+                            -21.6649179959999
+                        ],
+                        [
+                            135.21081401,
+                            -21.650374998
+                        ],
+                        [
+                            135.224963016,
+                            -21.650374998
+                        ],
+                        [
+                            135.224963016,
+                            -21.641925992
+                        ],
+                        [
+                            135.236382005,
+                            -21.641923995
+                        ],
+                        [
+                            135.274150015,
+                            -21.6419140049999
+                        ],
+                        [
+                            135.274163994,
+                            -21.687891
+                        ],
+                        [
+                            135.224976996,
+                            -21.687901008
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "9df09597-7bcc-5ebd-bf2d-4332eb68f3b6",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "5b308ea9-64ce-5c27-b01d-00871333199c",
+    "properties": {
+        "gccsa_code": "7RNTE",
+        "gccsa_name": "Rest of NT",
+        "sa1_code": "70201105209",
+        "sa2_code": "702011052",
+        "sa2_name": "Sandover - Plenty",
+        "sa3_code": "70201",
+        "sa3_name": "Alice Springs",
+        "sa4_code": "702",
+        "sa4_name": "Northern Territory - Outback",
+        "state_code": "7",
+        "state_name": "Northern Territory"
+    },
+    "type": "FeatureCollection"
+}

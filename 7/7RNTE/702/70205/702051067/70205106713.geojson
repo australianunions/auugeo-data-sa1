@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            132.18786952,
+                            -14.5233163579999
+                        ],
+                        [
+                            132.186904496,
+                            -14.5223528029999
+                        ],
+                        [
+                            132.187215184,
+                            -14.5219789929999
+                        ],
+                        [
+                            132.184671208,
+                            -14.5193318829999
+                        ],
+                        [
+                            132.184831917,
+                            -14.5192353689999
+                        ],
+                        [
+                            132.187638402,
+                            -14.517475297
+                        ],
+                        [
+                            132.189555491,
+                            -14.519469967
+                        ],
+                        [
+                            132.188078592,
+                            -14.5226179819999
+                        ],
+                        [
+                            132.18786952,
+                            -14.5233163579999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "256f9b7d-4b39-5a57-b62b-8873319a3eb9",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "6d338598-8997-5223-ab24-fec20658e92f",
+    "properties": {
+        "gccsa_code": "7RNTE",
+        "gccsa_name": "Rest of NT",
+        "sa1_code": "70205106713",
+        "sa2_code": "702051067",
+        "sa2_name": "Katherine",
+        "sa3_code": "70205",
+        "sa3_name": "Katherine",
+        "sa4_code": "702",
+        "sa4_name": "Northern Territory - Outback",
+        "state_code": "7",
+        "state_name": "Northern Territory"
+    },
+    "type": "FeatureCollection"
+}

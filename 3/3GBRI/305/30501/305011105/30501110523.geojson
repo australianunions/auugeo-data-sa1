@@ -1,0 +1,63 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            153.026568985,
+                            -27.471973998
+                        ],
+                        [
+                            153.026583001,
+                            -27.4719640079999
+                        ],
+                        [
+                            153.027106994,
+                            -27.4715539919999
+                        ],
+                        [
+                            153.027475024,
+                            -27.4719280059999
+                        ],
+                        [
+                            153.026784006,
+                            -27.472467004
+                        ],
+                        [
+                            153.026713999,
+                            -27.472400996
+                        ],
+                        [
+                            153.026414991,
+                            -27.472095006
+                        ],
+                        [
+                            153.026568985,
+                            -27.471973998
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "766e5f47-1c73-52ac-8490-86682bb2104d",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "42658f7d-0b6a-599f-a26a-79f2b9ef44e0",
+    "properties": {
+        "gccsa_code": "3GBRI",
+        "gccsa_name": "Greater Brisbane",
+        "sa1_code": "30501110523",
+        "sa2_code": "305011105",
+        "sa2_name": "Brisbane City",
+        "sa3_code": "30501",
+        "sa3_name": "Brisbane Inner",
+        "sa4_code": "305",
+        "sa4_name": "Brisbane Inner City",
+        "state_code": "3",
+        "state_name": "Queensland"
+    },
+    "type": "FeatureCollection"
+}

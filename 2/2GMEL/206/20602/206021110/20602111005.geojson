@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            145.024240328,
+                            -37.7738244089999
+                        ],
+                        [
+                            145.024383226,
+                            -37.773037882
+                        ],
+                        [
+                            145.024521122,
+                            -37.772279548
+                        ],
+                        [
+                            145.026286226,
+                            -37.772478997
+                        ],
+                        [
+                            145.026007512,
+                            -37.774024117
+                        ],
+                        [
+                            145.025865235,
+                            -37.7748137519999
+                        ],
+                        [
+                            145.025722739,
+                            -37.7756041279999
+                        ],
+                        [
+                            145.023953401,
+                            -37.7754033649999
+                        ],
+                        [
+                            145.024096664,
+                            -37.774613878
+                        ],
+                        [
+                            145.024240328,
+                            -37.7738244089999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "d02064df-d84e-5ddd-85b9-8d0976d1bde7",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "7429a7ad-3f4e-575f-be4e-bcfd59a08797",
+    "properties": {
+        "gccsa_code": "2GMEL",
+        "gccsa_name": "Greater Melbourne",
+        "sa1_code": "20602111005",
+        "sa2_code": "206021110",
+        "sa2_name": "Alphington - Fairfield",
+        "sa3_code": "20602",
+        "sa3_name": "Darebin - South",
+        "sa4_code": "206",
+        "sa4_name": "Melbourne - Inner",
+        "state_code": "2",
+        "state_name": "Victoria"
+    },
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            149.149479015,
+                            -35.1999259949999
+                        ],
+                        [
+                            149.149555008,
+                            -35.1996040029999
+                        ],
+                        [
+                            149.149729004,
+                            -35.1988630029999
+                        ],
+                        [
+                            149.149986986,
+                            -35.1988980049999
+                        ],
+                        [
+                            149.150944016,
+                            -35.1990500009999
+                        ],
+                        [
+                            149.150693005,
+                            -35.200114991
+                        ],
+                        [
+                            149.150526017,
+                            -35.2008610039999
+                        ],
+                        [
+                            149.150481487,
+                            -35.201082874
+                        ],
+                        [
+                            149.149252204,
+                            -35.200887866
+                        ],
+                        [
+                            149.149479015,
+                            -35.1999259949999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "7153d2a9-9f93-5900-b244-be66b19a7e47",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "157d9f6a-70ec-52bd-9389-159dca4ab0a7",
+    "properties": {
+        "gccsa_code": "8ACTE",
+        "gccsa_name": "Australian Capital Territory",
+        "sa1_code": "80104104419",
+        "sa2_code": "801041044",
+        "sa2_name": "Harrison",
+        "sa3_code": "80104",
+        "sa3_name": "Gungahlin",
+        "sa4_code": "801",
+        "sa4_name": "Australian Capital Territory",
+        "state_code": "8",
+        "state_name": "Australian Capital Territory"
+    },
+    "type": "FeatureCollection"
+}

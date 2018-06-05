@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.101288008,
+                            -33.9633829979999
+                        ],
+                        [
+                            151.101930226,
+                            -33.9630011949999
+                        ],
+                        [
+                            151.102516671,
+                            -33.9636729859999
+                        ],
+                        [
+                            151.101538508,
+                            -33.964241638
+                        ],
+                        [
+                            151.101017178,
+                            -33.9645615589999
+                        ],
+                        [
+                            151.100434821,
+                            -33.963890842
+                        ],
+                        [
+                            151.100969071,
+                            -33.9635734739999
+                        ],
+                        [
+                            151.101182085,
+                            -33.963446287
+                        ],
+                        [
+                            151.101288008,
+                            -33.9633829979999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "faa9acf7-9f87-5792-954c-6b5220429141",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "701cb33e-00bc-5cb2-b527-0b202e018025",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "11903136817",
+        "sa2_code": "119031368",
+        "sa2_name": "Hurstville",
+        "sa3_code": "11903",
+        "sa3_name": "Hurstville",
+        "sa4_code": "119",
+        "sa4_name": "Sydney - Inner South West",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

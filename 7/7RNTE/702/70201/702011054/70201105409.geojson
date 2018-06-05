@@ -1,0 +1,51 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            133.723540006,
+                            -21.754302004
+                        ],
+                        [
+                            133.715576983,
+                            -21.741829008
+                        ],
+                        [
+                            133.728946568,
+                            -21.734389085
+                        ],
+                        [
+                            133.737716898,
+                            -21.746416139
+                        ],
+                        [
+                            133.723540006,
+                            -21.754302004
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "af3c1e2a-2100-59d0-92c2-cf0fd58d83d1",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "d7c4d04b-e2a3-581c-a242-a092e3b44596",
+    "properties": {
+        "gccsa_code": "7RNTE",
+        "gccsa_name": "Rest of NT",
+        "sa1_code": "70201105409",
+        "sa2_code": "702011054",
+        "sa2_name": "Yuendumu - Anmatjere",
+        "sa3_code": "70201",
+        "sa3_name": "Alice Springs",
+        "sa4_code": "702",
+        "sa4_name": "Northern Territory - Outback",
+        "state_code": "7",
+        "state_name": "Northern Territory"
+    },
+    "type": "FeatureCollection"
+}

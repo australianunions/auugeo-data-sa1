@@ -1,0 +1,63 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            149.132363727,
+                            -35.1851039429999
+                        ],
+                        [
+                            149.134776012,
+                            -35.185521007
+                        ],
+                        [
+                            149.134741008,
+                            -35.1856479909999
+                        ],
+                        [
+                            149.134631983,
+                            -35.185863997
+                        ],
+                        [
+                            149.134600994,
+                            -35.185964008
+                        ],
+                        [
+                            149.134411012,
+                            -35.1867290019999
+                        ],
+                        [
+                            149.132052017,
+                            -35.186337005
+                        ],
+                        [
+                            149.132363727,
+                            -35.1851039429999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "3f713fc8-69c1-515f-9b6d-a0504874c60f",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "9da1e2c8-f678-5203-a83a-c84a860d7f63",
+    "properties": {
+        "gccsa_code": "8ACTE",
+        "gccsa_name": "Australian Capital Territory",
+        "sa1_code": "80104104022",
+        "sa2_code": "801041040",
+        "sa2_name": "Gungahlin",
+        "sa3_code": "80104",
+        "sa3_name": "Gungahlin",
+        "sa4_code": "801",
+        "sa4_name": "Australian Capital Territory",
+        "state_code": "8",
+        "state_name": "Australian Capital Territory"
+    },
+    "type": "FeatureCollection"
+}

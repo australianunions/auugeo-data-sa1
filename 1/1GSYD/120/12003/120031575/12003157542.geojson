@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.086857405,
+                            -33.880431422
+                        ],
+                        [
+                            151.087111919,
+                            -33.879171775
+                        ],
+                        [
+                            151.089063867,
+                            -33.8794213959999
+                        ],
+                        [
+                            151.090442216,
+                            -33.8796030469999
+                        ],
+                        [
+                            151.090203616,
+                            -33.8808611769999
+                        ],
+                        [
+                            151.089964175,
+                            -33.882126743
+                        ],
+                        [
+                            151.089722655,
+                            -33.883346245
+                        ],
+                        [
+                            151.086355932,
+                            -33.882909034
+                        ],
+                        [
+                            151.08660143,
+                            -33.8816943059999
+                        ],
+                        [
+                            151.086857405,
+                            -33.880431422
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "dd841b52-eb5c-5307-9910-8e7263c804c5",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "3e908ef0-b632-53f3-b823-e1702d4813a7",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "12003157542",
+        "sa2_code": "120031575",
+        "sa2_name": "Strathfield",
+        "sa3_code": "12003",
+        "sa3_name": "Strathfield - Burwood - Ashfield",
+        "sa4_code": "120",
+        "sa4_name": "Sydney - Inner West",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

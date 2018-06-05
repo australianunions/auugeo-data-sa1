@@ -1,0 +1,63 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            144.952174071,
+                            -37.754033405
+                        ],
+                        [
+                            144.951132945,
+                            -37.753911546
+                        ],
+                        [
+                            144.95100264,
+                            -37.7538958759999
+                        ],
+                        [
+                            144.951364464,
+                            -37.7520319829999
+                        ],
+                        [
+                            144.952520785,
+                            -37.752166256
+                        ],
+                        [
+                            144.953678528,
+                            -37.7523007139999
+                        ],
+                        [
+                            144.953332581,
+                            -37.754169565
+                        ],
+                        [
+                            144.952174071,
+                            -37.754033405
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "95240ce8-516d-56f1-aac7-7527c251da13",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "37c3986a-d8c5-5b17-8550-634da8cfecd7",
+    "properties": {
+        "gccsa_code": "2GMEL",
+        "gccsa_name": "Greater Melbourne",
+        "sa1_code": "20601110856",
+        "sa2_code": "206011108",
+        "sa2_name": "Coburg",
+        "sa3_code": "20601",
+        "sa3_name": "Brunswick - Coburg",
+        "sa4_code": "206",
+        "sa4_name": "Melbourne - Inner",
+        "state_code": "2",
+        "state_name": "Victoria"
+    },
+    "type": "FeatureCollection"
+}

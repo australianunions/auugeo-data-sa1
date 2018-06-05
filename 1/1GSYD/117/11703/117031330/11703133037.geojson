@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.185799451,
+                            -33.905162702
+                        ],
+                        [
+                            151.185742621,
+                            -33.905172082
+                        ],
+                        [
+                            151.185945232,
+                            -33.9040818029999
+                        ],
+                        [
+                            151.186764913,
+                            -33.904213727
+                        ],
+                        [
+                            151.186793127,
+                            -33.9042013869999
+                        ],
+                        [
+                            151.186780535,
+                            -33.904272723
+                        ],
+                        [
+                            151.186608073,
+                            -33.905016497
+                        ],
+                        [
+                            151.187204373,
+                            -33.9051046869999
+                        ],
+                        [
+                            151.187156923,
+                            -33.9053564349999
+                        ],
+                        [
+                            151.185799451,
+                            -33.905162702
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "185af088-5ea9-553e-89a8-db369003ab53",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "c863e976-8e6e-57bf-b70a-8a2232344f2e",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "11703133037",
+        "sa2_code": "117031330",
+        "sa2_name": "Erskineville - Alexandria",
+        "sa3_code": "11703",
+        "sa3_name": "Sydney Inner City",
+        "sa4_code": "117",
+        "sa4_name": "Sydney - City and Inner South",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

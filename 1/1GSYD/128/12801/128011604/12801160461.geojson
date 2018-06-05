@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.151562378,
+                            -34.045871131
+                        ],
+                        [
+                            151.150506835,
+                            -34.045739097
+                        ],
+                        [
+                            151.150628891,
+                            -34.0450724679999
+                        ],
+                        [
+                            151.150781899,
+                            -34.0442376359999
+                        ],
+                        [
+                            151.150899611,
+                            -34.0435948539999
+                        ],
+                        [
+                            151.150915817,
+                            -34.043500079
+                        ],
+                        [
+                            151.151998335,
+                            -34.0436303929999
+                        ],
+                        [
+                            151.153084465,
+                            -34.0437629639999
+                        ],
+                        [
+                            151.15266362,
+                            -34.046007291
+                        ],
+                        [
+                            151.151562378,
+                            -34.045871131
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "fb667c35-89e7-54a2-9a2f-288cc29ce241",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "902e34c9-9076-54c8-ab65-f31bf7c9b05e",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "12801160461",
+        "sa2_code": "128011604",
+        "sa2_name": "Cronulla - Kurnell - Bundeena",
+        "sa3_code": "12801",
+        "sa3_name": "Cronulla - Miranda - Caringbah",
+        "sa4_code": "128",
+        "sa4_name": "Sydney - Sutherland",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

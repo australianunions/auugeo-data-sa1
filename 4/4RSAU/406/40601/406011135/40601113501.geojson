@@ -1,0 +1,51 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            130.755072934,
+                            -29.410947028
+                        ],
+                        [
+                            130.724800673,
+                            -29.4083739
+                        ],
+                        [
+                            130.727015566,
+                            -29.387145964
+                        ],
+                        [
+                            130.753596326,
+                            -29.3897190179999
+                        ],
+                        [
+                            130.755072934,
+                            -29.410947028
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "06d564d8-4f6b-5493-bf87-a9eb7437c4a4",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "2a09ac72-a349-57b4-b0ca-0fa67d2cf3cd",
+    "properties": {
+        "gccsa_code": "4RSAU",
+        "gccsa_name": "Rest of SA",
+        "sa1_code": "40601113501",
+        "sa2_code": "406011135",
+        "sa2_name": "Western",
+        "sa3_code": "40601",
+        "sa3_name": "Eyre Peninsula and South West",
+        "sa4_code": "406",
+        "sa4_name": "South Australia - Outback",
+        "state_code": "4",
+        "state_name": "South Australia"
+    },
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            125.930184142,
+                            -18.8828896059999
+                        ],
+                        [
+                            125.930193633,
+                            -18.882891641
+                        ],
+                        [
+                            125.937179732,
+                            -18.899686736
+                        ],
+                        [
+                            125.922155858,
+                            -18.900499811
+                        ],
+                        [
+                            125.920894673,
+                            -18.88090167
+                        ],
+                        [
+                            125.917959818,
+                            -18.875089617
+                        ],
+                        [
+                            125.924956722,
+                            -18.8737714919999
+                        ],
+                        [
+                            125.926415663,
+                            -18.8806206359999
+                        ],
+                        [
+                            125.93019564,
+                            -18.882888625
+                        ],
+                        [
+                            125.930184142,
+                            -18.8828896059999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "192c91e0-d0a4-5fec-8218-468d0d2efb26",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "0812ee66-96a6-5eac-bb04-e8fd5932b0f8",
+    "properties": {
+        "gccsa_code": "5RWAU",
+        "gccsa_name": "Rest of WA",
+        "sa1_code": "51001126313",
+        "sa2_code": "510011263",
+        "sa2_name": "Derby - West Kimberley",
+        "sa3_code": "51001",
+        "sa3_name": "Kimberley",
+        "sa4_code": "510",
+        "sa4_name": "Western Australia - Outback (North)",
+        "state_code": "5",
+        "state_name": "Western Australia"
+    },
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            114.630678356,
+                            -28.7661284179999
+                        ],
+                        [
+                            114.630687992,
+                            -28.765029
+                        ],
+                        [
+                            114.634450084,
+                            -28.765103574
+                        ],
+                        [
+                            114.635046238,
+                            -28.766200494
+                        ],
+                        [
+                            114.636200989,
+                            -28.7683020019999
+                        ],
+                        [
+                            114.633312999,
+                            -28.7683269949999
+                        ],
+                        [
+                            114.630642002,
+                            -28.7683200019999
+                        ],
+                        [
+                            114.630654594,
+                            -28.767220288
+                        ],
+                        [
+                            114.630678356,
+                            -28.7661284179999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "4cef36f8-b83b-53dc-b89c-743d874ff754",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "d2ecf62e-5f9e-52de-b021-2aab8c3755ed",
+    "properties": {
+        "gccsa_code": "5RWAU",
+        "gccsa_name": "Rest of WA",
+        "sa1_code": "51104128528",
+        "sa2_code": "511041285",
+        "sa2_name": "Geraldton",
+        "sa3_code": "51104",
+        "sa3_name": "Mid West",
+        "sa4_code": "511",
+        "sa4_name": "Western Australia - Outback (South)",
+        "state_code": "5",
+        "state_name": "Western Australia"
+    },
+    "type": "FeatureCollection"
+}

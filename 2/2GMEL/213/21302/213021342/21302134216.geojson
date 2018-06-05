@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            144.769323233,
+                            -37.8735797759999
+                        ],
+                        [
+                            144.76819969,
+                            -37.8734847229999
+                        ],
+                        [
+                            144.768570128,
+                            -37.8707375659999
+                        ],
+                        [
+                            144.769692248,
+                            -37.870831712
+                        ],
+                        [
+                            144.770805388,
+                            -37.870988407
+                        ],
+                        [
+                            144.771926048,
+                            -37.871082628
+                        ],
+                        [
+                            144.771567144,
+                            -37.873768587
+                        ],
+                        [
+                            144.770445717,
+                            -37.8736741819999
+                        ],
+                        [
+                            144.769323233,
+                            -37.8735797759999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "5ce6ff45-6a31-5595-9aa0-1f59fc6bee0a",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "3c0bbac2-1454-52f8-9bbc-b113a80eafb5",
+    "properties": {
+        "gccsa_code": "2GMEL",
+        "gccsa_name": "Greater Melbourne",
+        "sa1_code": "21302134216",
+        "sa2_code": "213021342",
+        "sa2_name": "Altona Meadows",
+        "sa3_code": "21302",
+        "sa3_name": "Hobsons Bay",
+        "sa4_code": "213",
+        "sa4_name": "Melbourne - West",
+        "state_code": "2",
+        "state_name": "Victoria"
+    },
+    "type": "FeatureCollection"
+}

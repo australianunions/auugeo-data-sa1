@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.024346009,
+                            -33.9296412919999
+                        ],
+                        [
+                            151.024740135,
+                            -33.9291749619999
+                        ],
+                        [
+                            151.029506159,
+                            -33.930729444
+                        ],
+                        [
+                            151.029414033,
+                            -33.930861293
+                        ],
+                        [
+                            151.029180762,
+                            -33.931088584
+                        ],
+                        [
+                            151.028806673,
+                            -33.931453053
+                        ],
+                        [
+                            151.027785002,
+                            -33.931170817
+                        ],
+                        [
+                            151.024080617,
+                            -33.9301468789999
+                        ],
+                        [
+                            151.023965058,
+                            -33.930092063
+                        ],
+                        [
+                            151.024346009,
+                            -33.9296412919999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "da516239-e4b6-535b-b992-03d1bc7e9b58",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "4211c694-e29d-525e-bb93-ecf43d6ca9d9",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "11901157203",
+        "sa2_code": "119011572",
+        "sa2_name": "Bankstown - South",
+        "sa3_code": "11901",
+        "sa3_name": "Bankstown",
+        "sa4_code": "119",
+        "sa4_name": "Sydney - Inner South West",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

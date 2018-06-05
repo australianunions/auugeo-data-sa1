@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.096948889,
+                            -33.8193640869999
+                        ],
+                        [
+                            151.096872275,
+                            -33.819311806
+                        ],
+                        [
+                            151.097701701,
+                            -33.818523854
+                        ],
+                        [
+                            151.098167988,
+                            -33.818082999
+                        ],
+                        [
+                            151.099047712,
+                            -33.818766759
+                        ],
+                        [
+                            151.098419984,
+                            -33.819379146
+                        ],
+                        [
+                            151.09780766,
+                            -33.819976789
+                        ],
+                        [
+                            151.097749881,
+                            -33.819934868
+                        ],
+                        [
+                            151.096948889,
+                            -33.8193640869999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "309d9991-e8f3-5a65-aa6d-7e8970b605b4",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "28a283d9-c0a7-52c9-96c0-bcbbdb22890d",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "12602159101",
+        "sa2_code": "126021591",
+        "sa2_name": "Ryde",
+        "sa3_code": "12602",
+        "sa3_name": "Ryde - Hunters Hill",
+        "sa4_code": "126",
+        "sa4_name": "Sydney - Ryde",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

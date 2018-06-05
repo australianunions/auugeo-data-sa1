@@ -1,0 +1,59 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            124.719158636,
+                            -22.3289360539999
+                        ],
+                        [
+                            124.719347305,
+                            -22.3246330649999
+                        ],
+                        [
+                            124.728925525,
+                            -22.324598285
+                        ],
+                        [
+                            124.734121227,
+                            -22.324632917
+                        ],
+                        [
+                            124.733664284,
+                            -22.3344949529999
+                        ],
+                        [
+                            124.718890434,
+                            -22.3349181029999
+                        ],
+                        [
+                            124.719158636,
+                            -22.3289360539999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "085c25a6-337d-5e89-9e6f-a5f033361874",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "3c2fb420-35a3-5a43-8549-50ce8c8cc05c",
+    "properties": {
+        "gccsa_code": "5RWAU",
+        "gccsa_name": "Rest of WA",
+        "sa1_code": "51002126710",
+        "sa2_code": "510021267",
+        "sa2_name": "East Pilbara",
+        "sa3_code": "51002",
+        "sa3_name": "East Pilbara",
+        "sa4_code": "510",
+        "sa4_name": "Western Australia - Outback (North)",
+        "state_code": "5",
+        "state_name": "Western Australia"
+    },
+    "type": "FeatureCollection"
+}

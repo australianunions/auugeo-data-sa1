@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.030552687,
+                            -33.876579777
+                        ],
+                        [
+                            151.029529556,
+                            -33.8764383819999
+                        ],
+                        [
+                            151.029574378,
+                            -33.876205929
+                        ],
+                        [
+                            151.030087568,
+                            -33.8735434459999
+                        ],
+                        [
+                            151.030141223,
+                            -33.873497196
+                        ],
+                        [
+                            151.031134425,
+                            -33.8736311179999
+                        ],
+                        [
+                            151.03211507,
+                            -33.8737633179999
+                        ],
+                        [
+                            151.031539793,
+                            -33.876716399
+                        ],
+                        [
+                            151.030552687,
+                            -33.876579777
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "76d22f12-6f26-5ff5-885f-dcce1bac8dc1",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "d00785d9-7257-5b5d-8e84-5a9c7d88fc7e",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "12501158515",
+        "sa2_code": "125011585",
+        "sa2_name": "Berala",
+        "sa3_code": "12501",
+        "sa3_name": "Auburn",
+        "sa4_code": "125",
+        "sa4_name": "Sydney - Parramatta",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

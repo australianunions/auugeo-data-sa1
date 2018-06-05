@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.279786221,
+                            -33.774204181
+                        ],
+                        [
+                            151.27902735,
+                            -33.7741189889999
+                        ],
+                        [
+                            151.279146011,
+                            -33.773129016
+                        ],
+                        [
+                            151.281181069,
+                            -33.7733965269999
+                        ],
+                        [
+                            151.282639281,
+                            -33.773588186
+                        ],
+                        [
+                            151.2844038,
+                            -33.773820121
+                        ],
+                        [
+                            151.284311309,
+                            -33.7743157539999
+                        ],
+                        [
+                            151.284219146,
+                            -33.774807059
+                        ],
+                        [
+                            151.28154939,
+                            -33.774460388
+                        ],
+                        [
+                            151.279786221,
+                            -33.774204181
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "741af9ee-90db-5bfb-8da4-56ff34114ae2",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "42f85ccc-081b-5a84-af03-e2dfa77a6de5",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "12203142945",
+        "sa2_code": "122031429",
+        "sa2_name": "Freshwater - Brookvale",
+        "sa3_code": "12203",
+        "sa3_name": "Warringah",
+        "sa4_code": "122",
+        "sa4_name": "Sydney - Northern Beaches",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

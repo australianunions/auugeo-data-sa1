@@ -1,0 +1,59 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            153.38795501,
+                            -27.954598002
+                        ],
+                        [
+                            153.390112014,
+                            -27.954920993
+                        ],
+                        [
+                            153.390105006,
+                            -27.9550119949999
+                        ],
+                        [
+                            153.389522028,
+                            -27.958079998
+                        ],
+                        [
+                            153.387352431,
+                            -27.9577566909999
+                        ],
+                        [
+                            153.387935008,
+                            -27.9546880039999
+                        ],
+                        [
+                            153.38795501,
+                            -27.954598002
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "a85f2eef-19fc-535e-bab0-4c876c4ac9e1",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "31b665b2-20fd-5fbc-a053-5878a8506a44",
+    "properties": {
+        "gccsa_code": "3RQLD",
+        "gccsa_name": "Rest of Qld",
+        "sa1_code": "30909154031",
+        "sa2_code": "309091540",
+        "sa2_name": "Southport - North",
+        "sa3_code": "30909",
+        "sa3_name": "Southport",
+        "sa4_code": "309",
+        "sa4_name": "Gold Coast",
+        "state_code": "3",
+        "state_name": "Queensland"
+    },
+    "type": "FeatureCollection"
+}

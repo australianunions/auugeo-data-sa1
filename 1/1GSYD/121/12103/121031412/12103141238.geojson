@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.115116216,
+                            -33.723609067
+                        ],
+                        [
+                            151.115438183,
+                            -33.7219449369999
+                        ],
+                        [
+                            151.11618917,
+                            -33.722044652
+                        ],
+                        [
+                            151.117612524,
+                            -33.7222615649999
+                        ],
+                        [
+                            151.118212146,
+                            -33.722350901
+                        ],
+                        [
+                            151.118946124,
+                            -33.7240343829999
+                        ],
+                        [
+                            151.119298824,
+                            -33.724865699
+                        ],
+                        [
+                            151.11699144,
+                            -33.7245502919999
+                        ],
+                        [
+                            151.114987079,
+                            -33.7242762889999
+                        ],
+                        [
+                            151.115116216,
+                            -33.723609067
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "1e0f217e-897b-5007-b02d-97c239f1f2b2",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "97e73381-5939-5149-a781-bfadad820bad",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "12103141238",
+        "sa2_code": "121031412",
+        "sa2_name": "Wahroonga (East) - Warrawee",
+        "sa3_code": "12103",
+        "sa3_name": "Ku-ring-gai",
+        "sa4_code": "121",
+        "sa4_name": "Sydney - North Sydney and Hornsby",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

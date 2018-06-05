@@ -1,0 +1,63 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            131.922077286,
+                            -23.190934526
+                        ],
+                        [
+                            131.923397929,
+                            -23.2009971759999
+                        ],
+                        [
+                            131.923264011,
+                            -23.2144549999999
+                        ],
+                        [
+                            131.907229488,
+                            -23.214448359
+                        ],
+                        [
+                            131.901092998,
+                            -23.214475998
+                        ],
+                        [
+                            131.901236991,
+                            -23.2016969929999
+                        ],
+                        [
+                            131.907146998,
+                            -23.1971510069999
+                        ],
+                        [
+                            131.922077286,
+                            -23.190934526
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "14ad6b59-baf0-5343-83cf-3baa2008715d",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "97f4bd58-08a9-51cc-ae10-f88d851bdd97",
+    "properties": {
+        "gccsa_code": "7RNTE",
+        "gccsa_name": "Rest of NT",
+        "sa1_code": "70201105305",
+        "sa2_code": "702011053",
+        "sa2_name": "Tanami",
+        "sa3_code": "70201",
+        "sa3_name": "Alice Springs",
+        "sa4_code": "702",
+        "sa4_name": "Northern Territory - Outback",
+        "state_code": "7",
+        "state_name": "Northern Territory"
+    },
+    "type": "FeatureCollection"
+}

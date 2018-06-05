@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.202947663,
+                            -33.881047194
+                        ],
+                        [
+                            151.202802977,
+                            -33.880776114
+                        ],
+                        [
+                            151.202948429,
+                            -33.880718782
+                        ],
+                        [
+                            151.203863156,
+                            -33.880343399
+                        ],
+                        [
+                            151.204088324,
+                            -33.8802165619999
+                        ],
+                        [
+                            151.203926519,
+                            -33.8806593969999
+                        ],
+                        [
+                            151.203718068,
+                            -33.8812956859999
+                        ],
+                        [
+                            151.203520457,
+                            -33.881375347
+                        ],
+                        [
+                            151.203232107,
+                            -33.8815033119999
+                        ],
+                        [
+                            151.202947663,
+                            -33.881047194
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "abff1b8f-9877-5cfe-8025-6af1e9bfe827",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "da84f8e8-f13a-52be-8c80-a23fca8ad726",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "11703133753",
+        "sa2_code": "117031337",
+        "sa2_name": "Sydney - Haymarket - The Rocks",
+        "sa3_code": "11703",
+        "sa3_name": "Sydney Inner City",
+        "sa4_code": "117",
+        "sa4_name": "Sydney - City and Inner South",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

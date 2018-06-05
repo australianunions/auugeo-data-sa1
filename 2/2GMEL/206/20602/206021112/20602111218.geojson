@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            145.008930585,
+                            -37.763268032
+                        ],
+                        [
+                            145.009095857,
+                            -37.7622873839999
+                        ],
+                        [
+                            145.010509648,
+                            -37.7624362349999
+                        ],
+                        [
+                            145.012600806,
+                            -37.762656385
+                        ],
+                        [
+                            145.012434111,
+                            -37.7636412689999
+                        ],
+                        [
+                            145.012267087,
+                            -37.7646282069999
+                        ],
+                        [
+                            145.010461468,
+                            -37.7644343819999
+                        ],
+                        [
+                            145.008764985,
+                            -37.7642522689999
+                        ],
+                        [
+                            145.008930585,
+                            -37.763268032
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "c5d51b6b-bdca-5f25-98f2-8bfd1f5b6a2c",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "0db95ab5-82dc-55a3-b2a8-1c1133aee2ee",
+    "properties": {
+        "gccsa_code": "2GMEL",
+        "gccsa_name": "Greater Melbourne",
+        "sa1_code": "20602111218",
+        "sa2_code": "206021112",
+        "sa2_name": "Thornbury",
+        "sa3_code": "20602",
+        "sa3_name": "Darebin - South",
+        "sa4_code": "206",
+        "sa4_name": "Melbourne - Inner",
+        "state_code": "2",
+        "state_name": "Victoria"
+    },
+    "type": "FeatureCollection"
+}

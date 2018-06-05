@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.19622199,
+                            -33.872872007
+                        ],
+                        [
+                            151.196008392,
+                            -33.8724967159999
+                        ],
+                        [
+                            151.196057594,
+                            -33.872482342
+                        ],
+                        [
+                            151.196490703,
+                            -33.872309459
+                        ],
+                        [
+                            151.196569908,
+                            -33.8722677969999
+                        ],
+                        [
+                            151.196770001,
+                            -33.872659997
+                        ],
+                        [
+                            151.196957939,
+                            -33.873027685
+                        ],
+                        [
+                            151.196984293,
+                            -33.8730743789999
+                        ],
+                        [
+                            151.196458692,
+                            -33.873287406
+                        ],
+                        [
+                            151.19622199,
+                            -33.872872007
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "4ebd45a9-c0eb-5382-b30d-493abc1de7a3",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "c0b8f1aa-a00d-5cd0-838e-3ee7f47775eb",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "11703133409",
+        "sa2_code": "117031334",
+        "sa2_name": "Pyrmont - Ultimo",
+        "sa3_code": "11703",
+        "sa3_name": "Sydney Inner City",
+        "sa4_code": "117",
+        "sa4_name": "Sydney - City and Inner South",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

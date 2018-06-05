@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            135.959254029,
+                            -13.0541522149999
+                        ],
+                        [
+                            135.936650163,
+                            -13.05097101
+                        ],
+                        [
+                            135.937010163,
+                            -13.0483809909999
+                        ],
+                        [
+                            135.939329993,
+                            -13.0444309829999
+                        ],
+                        [
+                            135.93945997,
+                            -13.0421709849999
+                        ],
+                        [
+                            135.940269941,
+                            -13.040711003
+                        ],
+                        [
+                            135.946927797,
+                            -13.042173169
+                        ],
+                        [
+                            135.960560912,
+                            -13.0511429859999
+                        ],
+                        [
+                            135.959254029,
+                            -13.0541522149999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "c83d3649-60eb-5256-8264-83e2687aaf9a",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "4aa4f215-93d4-56c7-b6a6-5a31d90c0382",
+    "properties": {
+        "gccsa_code": "7RNTE",
+        "gccsa_name": "Rest of NT",
+        "sa1_code": "70204106314",
+        "sa2_code": "702041063",
+        "sa2_name": "East Arnhem",
+        "sa3_code": "70204",
+        "sa3_name": "East Arnhem",
+        "sa4_code": "702",
+        "sa4_name": "Northern Territory - Outback",
+        "state_code": "7",
+        "state_name": "Northern Territory"
+    },
+    "type": "FeatureCollection"
+}

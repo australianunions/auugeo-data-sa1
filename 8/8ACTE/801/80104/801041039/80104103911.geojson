@@ -1,0 +1,55 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            149.146688517,
+                            -35.1886332619999
+                        ],
+                        [
+                            149.144847494,
+                            -35.1883278829999
+                        ],
+                        [
+                            149.145050871,
+                            -35.187502227
+                        ],
+                        [
+                            149.144928815,
+                            -35.187204896
+                        ],
+                        [
+                            149.146963982,
+                            -35.187543002
+                        ],
+                        [
+                            149.146688517,
+                            -35.1886332619999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "f4bb7501-0a55-578d-ab39-cfd8d42645ac",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "1ea9f594-6a8d-5346-a68d-acfa9159659a",
+    "properties": {
+        "gccsa_code": "8ACTE",
+        "gccsa_name": "Australian Capital Territory",
+        "sa1_code": "80104103911",
+        "sa2_code": "801041039",
+        "sa2_name": "Franklin",
+        "sa3_code": "80104",
+        "sa3_name": "Gungahlin",
+        "sa4_code": "801",
+        "sa4_name": "Australian Capital Territory",
+        "state_code": "8",
+        "state_name": "Australian Capital Territory"
+    },
+    "type": "FeatureCollection"
+}

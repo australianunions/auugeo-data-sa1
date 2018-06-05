@@ -1,0 +1,75 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.148468894,
+                            -33.914889355
+                        ],
+                        [
+                            151.148380564,
+                            -33.914838647
+                        ],
+                        [
+                            151.147422366,
+                            -33.9142883449999
+                        ],
+                        [
+                            151.14645935,
+                            -33.913742226
+                        ],
+                        [
+                            151.146745218,
+                            -33.913294193
+                        ],
+                        [
+                            151.147203475,
+                            -33.9128587769999
+                        ],
+                        [
+                            151.147357214,
+                            -33.9127129779999
+                        ],
+                        [
+                            151.149320658,
+                            -33.9138563339999
+                        ],
+                        [
+                            151.149060012,
+                            -33.9141721469999
+                        ],
+                        [
+                            151.148759033,
+                            -33.914536283
+                        ],
+                        [
+                            151.148468894,
+                            -33.914889355
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "3454ba1a-37b1-5528-ae4e-a7c3fb7a20d5",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "cf1b63b1-db4a-5632-89ed-12c49187ec0c",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "11702132603",
+        "sa2_code": "117021326",
+        "sa2_name": "Marrickville",
+        "sa3_code": "11702",
+        "sa3_name": "Marrickville - Sydenham - Petersham",
+        "sa4_code": "117",
+        "sa4_name": "Sydney - City and Inner South",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

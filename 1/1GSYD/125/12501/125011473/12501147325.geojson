@@ -1,0 +1,63 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.074664689,
+                            -33.828676839
+                        ],
+                        [
+                            151.074477992,
+                            -33.828560992
+                        ],
+                        [
+                            151.073676598,
+                            -33.8280633599999
+                        ],
+                        [
+                            151.074683013,
+                            -33.826917008
+                        ],
+                        [
+                            151.074781124,
+                            -33.826957579
+                        ],
+                        [
+                            151.075705085,
+                            -33.8275103399999
+                        ],
+                        [
+                            151.074761633,
+                            -33.8286097399999
+                        ],
+                        [
+                            151.074664689,
+                            -33.828676839
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "7430670b-b32f-5770-b13c-73742dffacd8",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "7786f535-cdd9-5c80-afb9-d556c807ad63",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "12501147325",
+        "sa2_code": "125011473",
+        "sa2_name": "Homebush Bay - Silverwater",
+        "sa3_code": "12501",
+        "sa3_name": "Auburn",
+        "sa4_code": "125",
+        "sa4_name": "Sydney - Parramatta",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

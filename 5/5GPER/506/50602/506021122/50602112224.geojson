@@ -1,0 +1,75 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            115.918655754,
+                            -31.9615928109999
+                        ],
+                        [
+                            115.919472222,
+                            -31.960911419
+                        ],
+                        [
+                            115.922063503,
+                            -31.9631067029999
+                        ],
+                        [
+                            115.921644922,
+                            -31.9634573509999
+                        ],
+                        [
+                            115.921235172,
+                            -31.9638006009999
+                        ],
+                        [
+                            115.920395271,
+                            -31.9645043039999
+                        ],
+                        [
+                            115.919551062,
+                            -31.965196222
+                        ],
+                        [
+                            115.917866989,
+                            -31.9637520009999
+                        ],
+                        [
+                            115.916992558,
+                            -31.963002122
+                        ],
+                        [
+                            115.917834942,
+                            -31.962301101
+                        ],
+                        [
+                            115.918655754,
+                            -31.9615928109999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "e682fd83-07ac-50be-b6ca-acf8c85a5d76",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "d7e43b60-1d0b-5d43-9e0e-cb0320d561a8",
+    "properties": {
+        "gccsa_code": "5GPER",
+        "gccsa_name": "Greater Perth",
+        "sa1_code": "50602112224",
+        "sa2_code": "506021122",
+        "sa2_name": "Rivervale - Kewdale - Cloverdale",
+        "sa3_code": "50602",
+        "sa3_name": "Belmont - Victoria Park",
+        "sa4_code": "506",
+        "sa4_name": "Perth - South East",
+        "state_code": "5",
+        "state_name": "Western Australia"
+    },
+    "type": "FeatureCollection"
+}

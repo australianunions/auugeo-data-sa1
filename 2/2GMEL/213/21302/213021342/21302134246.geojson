@@ -1,0 +1,59 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            144.781956722,
+                            -37.872526497
+                        ],
+                        [
+                            144.780854386,
+                            -37.872277469
+                        ],
+                        [
+                            144.781294685,
+                            -37.868972758
+                        ],
+                        [
+                            144.782418593,
+                            -37.869068163
+                        ],
+                        [
+                            144.783542173,
+                            -37.869162124
+                        ],
+                        [
+                            144.783058329,
+                            -37.872775433
+                        ],
+                        [
+                            144.781956722,
+                            -37.872526497
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "11b7fe85-1b71-597d-b19d-5f629a6fab43",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "c4d3fced-f166-5d30-8b03-508c6c264c55",
+    "properties": {
+        "gccsa_code": "2GMEL",
+        "gccsa_name": "Greater Melbourne",
+        "sa1_code": "21302134246",
+        "sa2_code": "213021342",
+        "sa2_name": "Altona Meadows",
+        "sa3_code": "21302",
+        "sa3_name": "Hobsons Bay",
+        "sa4_code": "213",
+        "sa4_name": "Melbourne - West",
+        "state_code": "2",
+        "state_name": "Victoria"
+    },
+    "type": "FeatureCollection"
+}

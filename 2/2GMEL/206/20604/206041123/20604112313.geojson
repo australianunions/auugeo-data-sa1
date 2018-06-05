@@ -1,0 +1,51 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            144.949289403,
+                            -37.8125680529999
+                        ],
+                        [
+                            144.95093245,
+                            -37.812103388
+                        ],
+                        [
+                            144.951435347,
+                            -37.8131668239999
+                        ],
+                        [
+                            144.95032874,
+                            -37.813479936
+                        ],
+                        [
+                            144.949289403,
+                            -37.8125680529999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "bee694ca-46a3-520b-b547-5e03be71e344",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "f5b95d9a-80d8-5d92-a044-1d66a07185f3",
+    "properties": {
+        "gccsa_code": "2GMEL",
+        "gccsa_name": "Greater Melbourne",
+        "sa1_code": "20604112313",
+        "sa2_code": "206041123",
+        "sa2_name": "North Melbourne",
+        "sa3_code": "20604",
+        "sa3_name": "Melbourne City",
+        "sa4_code": "206",
+        "sa4_name": "Melbourne - Inner",
+        "state_code": "2",
+        "state_name": "Victoria"
+    },
+    "type": "FeatureCollection"
+}

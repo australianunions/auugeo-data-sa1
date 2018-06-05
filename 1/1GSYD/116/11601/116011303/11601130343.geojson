@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            150.908988963,
+                            -33.7651139659999
+                        ],
+                        [
+                            150.908958887,
+                            -33.765107546
+                        ],
+                        [
+                            150.908997212,
+                            -33.764974476
+                        ],
+                        [
+                            150.909086527,
+                            -33.7645340089999
+                        ],
+                        [
+                            150.909314032,
+                            -33.764585938
+                        ],
+                        [
+                            150.909693413,
+                            -33.764676126
+                        ],
+                        [
+                            150.909607017,
+                            -33.765109007
+                        ],
+                        [
+                            150.909590592,
+                            -33.765254343
+                        ],
+                        [
+                            150.908988963,
+                            -33.7651139659999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "3d8c9dc8-f088-5120-8b33-7078797c2918",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "8a25bd5f-50d8-5985-88e4-1b69e0d3efff",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "11601130343",
+        "sa2_code": "116011303",
+        "sa2_name": "Blacktown (East) - Kings Park",
+        "sa3_code": "11601",
+        "sa3_name": "Blacktown",
+        "sa4_code": "116",
+        "sa4_name": "Sydney - Blacktown",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

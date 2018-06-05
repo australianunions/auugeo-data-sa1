@@ -1,0 +1,55 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            127.097362126,
+                            -29.351149108
+                        ],
+                        [
+                            127.086076399,
+                            -29.33898077
+                        ],
+                        [
+                            127.087066352,
+                            -29.332163039
+                        ],
+                        [
+                            127.100430973,
+                            -29.33155894
+                        ],
+                        [
+                            127.114488656,
+                            -29.3425190799999
+                        ],
+                        [
+                            127.097362126,
+                            -29.351149108
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "1886ce01-904b-5caf-afac-88a7dba8a019",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "a5fb3d30-b5bd-58ed-aab6-77ee84c3b309",
+    "properties": {
+        "gccsa_code": "5RWAU",
+        "gccsa_name": "Rest of WA",
+        "sa1_code": "51103128313",
+        "sa2_code": "511031283",
+        "sa2_name": "Leinster - Leonora",
+        "sa3_code": "51103",
+        "sa3_name": "Goldfields",
+        "sa4_code": "511",
+        "sa4_name": "Western Australia - Outback (South)",
+        "state_code": "5",
+        "state_name": "Western Australia"
+    },
+    "type": "FeatureCollection"
+}

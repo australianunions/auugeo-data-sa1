@@ -1,0 +1,63 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.069547025,
+                            -33.908640314
+                        ],
+                        [
+                            151.069350983,
+                            -33.9086089749999
+                        ],
+                        [
+                            151.068489838,
+                            -33.9084717229999
+                        ],
+                        [
+                            151.069345982,
+                            -33.9048213959999
+                        ],
+                        [
+                            151.070399664,
+                            -33.9049810879999
+                        ],
+                        [
+                            151.071458748,
+                            -33.9051414649999
+                        ],
+                        [
+                            151.070595487,
+                            -33.908807517
+                        ],
+                        [
+                            151.069547025,
+                            -33.908640314
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "58ba9c48-4f7b-5cbd-a1b3-0d2fae39350a",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "3f27e628-d201-50ce-bafe-942b6689ca11",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "11901135704",
+        "sa2_code": "119011357",
+        "sa2_name": "Greenacre - Mount Lewis",
+        "sa3_code": "11901",
+        "sa3_name": "Bankstown",
+        "sa4_code": "119",
+        "sa4_name": "Sydney - Inner South West",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

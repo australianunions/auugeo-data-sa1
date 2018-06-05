@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            115.895163223,
+                            -31.978721794
+                        ],
+                        [
+                            115.894268644,
+                            -31.977947162
+                        ],
+                        [
+                            115.895929321,
+                            -31.9765372219999
+                        ],
+                        [
+                            115.896822841,
+                            -31.977313556
+                        ],
+                        [
+                            115.897344243,
+                            -31.9777520979999
+                        ],
+                        [
+                            115.897735414,
+                            -31.9780810839999
+                        ],
+                        [
+                            115.898647111,
+                            -31.9788395649999
+                        ],
+                        [
+                            115.896966104,
+                            -31.9802629549999
+                        ],
+                        [
+                            115.896067218,
+                            -31.979496426
+                        ],
+                        [
+                            115.895163223,
+                            -31.978721794
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "c82e5fb1-781f-530f-a917-c6459c0e1d58",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "9e97a44d-5657-5927-9dc9-5e840ce6ce7a",
+    "properties": {
+        "gccsa_code": "5GPER",
+        "gccsa_name": "Greater Perth",
+        "sa1_code": "50602112301",
+        "sa2_code": "506021123",
+        "sa2_name": "Victoria Park - Lathlain - Burswood",
+        "sa3_code": "50602",
+        "sa3_name": "Belmont - Victoria Park",
+        "sa4_code": "506",
+        "sa4_name": "Perth - South East",
+        "state_code": "5",
+        "state_name": "Western Australia"
+    },
+    "type": "FeatureCollection"
+}

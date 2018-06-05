@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            115.891597099,
+                            -31.905968398
+                        ],
+                        [
+                            115.892467989,
+                            -31.9052209239999
+                        ],
+                        [
+                            115.894721901,
+                            -31.907135878
+                        ],
+                        [
+                            115.893832323,
+                            -31.9078689209999
+                        ],
+                        [
+                            115.892974062,
+                            -31.908631769
+                        ],
+                        [
+                            115.89210069,
+                            -31.9093855149999
+                        ],
+                        [
+                            115.889845647,
+                            -31.907471394
+                        ],
+                        [
+                            115.890722997,
+                            -31.906714059
+                        ],
+                        [
+                            115.891597099,
+                            -31.905968398
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "005a959c-1873-5125-92ee-ce1791366958",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "9162135f-2f64-574a-a054-1e003be7e117",
+    "properties": {
+        "gccsa_code": "5GPER",
+        "gccsa_name": "Greater Perth",
+        "sa1_code": "50401104502",
+        "sa2_code": "504011045",
+        "sa2_name": "Bayswater - Embleton - Bedford",
+        "sa3_code": "50401",
+        "sa3_name": "Bayswater - Bassendean",
+        "sa4_code": "504",
+        "sa4_name": "Perth - North East",
+        "state_code": "5",
+        "state_name": "Western Australia"
+    },
+    "type": "FeatureCollection"
+}

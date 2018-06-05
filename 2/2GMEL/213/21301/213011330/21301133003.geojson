@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            144.75745763,
+                            -37.7692505059999
+                        ],
+                        [
+                            144.756449245,
+                            -37.76916252
+                        ],
+                        [
+                            144.756755151,
+                            -37.766841491
+                        ],
+                        [
+                            144.757769048,
+                            -37.7669301249999
+                        ],
+                        [
+                            144.758746811,
+                            -37.767015984
+                        ],
+                        [
+                            144.759723477,
+                            -37.7671016749999
+                        ],
+                        [
+                            144.759410271,
+                            -37.7694215939999
+                        ],
+                        [
+                            144.758433604,
+                            -37.7693360129999
+                        ],
+                        [
+                            144.75745763,
+                            -37.7692505059999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "5c8612f2-7198-5dac-8c8a-901053046998",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "314f3f76-5abc-5975-ba7b-eacf7c0167e4",
+    "properties": {
+        "gccsa_code": "2GMEL",
+        "gccsa_name": "Greater Melbourne",
+        "sa1_code": "21301133003",
+        "sa2_code": "213011330",
+        "sa2_name": "Deer Park - Derrimut",
+        "sa3_code": "21301",
+        "sa3_name": "Brimbank",
+        "sa4_code": "213",
+        "sa4_name": "Melbourne - West",
+        "state_code": "2",
+        "state_name": "Victoria"
+    },
+    "type": "FeatureCollection"
+}

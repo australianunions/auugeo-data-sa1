@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            150.819927613,
+                            -33.7631022379999
+                        ],
+                        [
+                            150.819270612,
+                            -33.763005187
+                        ],
+                        [
+                            150.818637118,
+                            -33.762911615
+                        ],
+                        [
+                            150.818650222,
+                            -33.7628213159999
+                        ],
+                        [
+                            150.818787718,
+                            -33.762175204
+                        ],
+                        [
+                            150.820085511,
+                            -33.762368029
+                        ],
+                        [
+                            150.821704432,
+                            -33.762608362
+                        ],
+                        [
+                            150.821813166,
+                            -33.762625586
+                        ],
+                        [
+                            150.821650376,
+                            -33.7633566879999
+                        ],
+                        [
+                            150.819927613,
+                            -33.7631022379999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "daae6868-73f4-5a98-9aeb-c48bb0a36c48",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "7263bb56-1d9e-571f-9b36-5abaddb0d646",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "11603131759",
+        "sa2_code": "116031317",
+        "sa2_name": "Mount Druitt - Whalan",
+        "sa3_code": "11603",
+        "sa3_name": "Mount Druitt",
+        "sa4_code": "116",
+        "sa4_name": "Sydney - Blacktown",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,75 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.161195933,
+                            -33.92433503
+                        ],
+                        [
+                            151.161589877,
+                            -33.923998126
+                        ],
+                        [
+                            151.161727628,
+                            -33.923887903
+                        ],
+                        [
+                            151.161806067,
+                            -33.923936947
+                        ],
+                        [
+                            151.163822546,
+                            -33.925354824
+                        ],
+                        [
+                            151.163295121,
+                            -33.9258140119999
+                        ],
+                        [
+                            151.162764484,
+                            -33.9262760679999
+                        ],
+                        [
+                            151.161001863,
+                            -33.925044468
+                        ],
+                        [
+                            151.160654857,
+                            -33.924800397
+                        ],
+                        [
+                            151.160922402,
+                            -33.9245708679999
+                        ],
+                        [
+                            151.161195933,
+                            -33.92433503
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "2b8d17bc-32e0-5ce1-8e81-1718a92c6685",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "d92e3c55-2e79-58e4-a470-32aca5b0a1ed",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "11702132812",
+        "sa2_code": "117021328",
+        "sa2_name": "Sydenham - Tempe - St Peters",
+        "sa3_code": "11702",
+        "sa3_name": "Marrickville - Sydenham - Petersham",
+        "sa4_code": "117",
+        "sa4_name": "Sydney - City and Inner South",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

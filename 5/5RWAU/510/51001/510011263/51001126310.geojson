@@ -1,0 +1,51 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            124.015381842,
+                            -18.018821483
+                        ],
+                        [
+                            124.005535821,
+                            -18.018772643
+                        ],
+                        [
+                            124.005484757,
+                            -18.007946536
+                        ],
+                        [
+                            124.015381769,
+                            -18.007946369
+                        ],
+                        [
+                            124.015381842,
+                            -18.018821483
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "07e26a8a-bcd4-5daa-adb2-6a902e86f216",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "423d9521-ed9d-5ad5-af3f-c3eeb53bbdf0",
+    "properties": {
+        "gccsa_code": "5RWAU",
+        "gccsa_name": "Rest of WA",
+        "sa1_code": "51001126310",
+        "sa2_code": "510011263",
+        "sa2_name": "Derby - West Kimberley",
+        "sa3_code": "51001",
+        "sa3_name": "Kimberley",
+        "sa4_code": "510",
+        "sa4_name": "Western Australia - Outback (North)",
+        "state_code": "5",
+        "state_name": "Western Australia"
+    },
+    "type": "FeatureCollection"
+}

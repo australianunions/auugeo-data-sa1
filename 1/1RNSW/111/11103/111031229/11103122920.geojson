@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.764449902,
+                            -32.934023055
+                        ],
+                        [
+                            151.763444984,
+                            -32.9333683589999
+                        ],
+                        [
+                            151.765019302,
+                            -32.931626491
+                        ],
+                        [
+                            151.765156798,
+                            -32.931455662
+                        ],
+                        [
+                            151.765515008,
+                            -32.9316912039999
+                        ],
+                        [
+                            151.766172739,
+                            -32.932118702
+                        ],
+                        [
+                            151.767205214,
+                            -32.9327906409999
+                        ],
+                        [
+                            151.766492405,
+                            -32.933528106
+                        ],
+                        [
+                            151.765224834,
+                            -32.934527643
+                        ],
+                        [
+                            151.764449902,
+                            -32.934023055
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "d2b6fdeb-b9eb-554b-bd38-777d2fdd2709",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "0039895b-e082-554c-acab-03d355f9cf86",
+    "properties": {
+        "gccsa_code": "1RNSW",
+        "gccsa_name": "Rest of NSW",
+        "sa1_code": "11103122920",
+        "sa2_code": "111031229",
+        "sa2_name": "Newcastle - Cooks Hill",
+        "sa3_code": "11103",
+        "sa3_name": "Newcastle",
+        "sa4_code": "111",
+        "sa4_name": "Newcastle and Lake Macquarie",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

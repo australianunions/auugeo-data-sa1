@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            130.968163948,
+                            -12.4474300439999
+                        ],
+                        [
+                            130.968157342,
+                            -12.446249522
+                        ],
+                        [
+                            130.96804901,
+                            -12.424047006
+                        ],
+                        [
+                            130.968047988,
+                            -12.423960334
+                        ],
+                        [
+                            130.982951011,
+                            -12.4238790069999
+                        ],
+                        [
+                            130.983162784,
+                            -12.450570308
+                        ],
+                        [
+                            130.983110041,
+                            -12.450581722
+                        ],
+                        [
+                            130.979572863,
+                            -12.450608363
+                        ],
+                        [
+                            130.968163948,
+                            -12.4474300439999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "4c05b67f-f0df-5cef-be00-a711a945b000",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "9c6ad296-7987-5e65-8f1d-c4c01a355f59",
+    "properties": {
+        "gccsa_code": "7GDAR",
+        "gccsa_name": "Greater Darwin",
+        "sa1_code": "70103103107",
+        "sa2_code": "701031031",
+        "sa2_name": "Howard Springs",
+        "sa3_code": "70103",
+        "sa3_name": "Litchfield",
+        "sa4_code": "701",
+        "sa4_name": "Darwin",
+        "state_code": "7",
+        "state_name": "Northern Territory"
+    },
+    "type": "FeatureCollection"
+}

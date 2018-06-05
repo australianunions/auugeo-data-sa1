@@ -1,0 +1,63 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            145.276833249,
+                            -37.8151861539999
+                        ],
+                        [
+                            145.275602396,
+                            -37.8150320679999
+                        ],
+                        [
+                            145.275800408,
+                            -37.814028757
+                        ],
+                        [
+                            145.276226254,
+                            -37.8118675869999
+                        ],
+                        [
+                            145.27746072,
+                            -37.8120225609999
+                        ],
+                        [
+                            145.27868869,
+                            -37.8121766479999
+                        ],
+                        [
+                            145.278066985,
+                            -37.815340592
+                        ],
+                        [
+                            145.276833249,
+                            -37.8151861539999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "0f939554-7698-5373-80dc-9442ccadc87f",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "3f188210-0b28-5930-8e4a-55e6f8462c83",
+    "properties": {
+        "gccsa_code": "2GMEL",
+        "gccsa_name": "Greater Melbourne",
+        "sa1_code": "21103145205",
+        "sa2_code": "211031452",
+        "sa2_name": "Croydon South",
+        "sa3_code": "21103",
+        "sa3_name": "Maroondah",
+        "sa4_code": "211",
+        "sa4_name": "Melbourne - Outer East",
+        "state_code": "2",
+        "state_name": "Victoria"
+    },
+    "type": "FeatureCollection"
+}

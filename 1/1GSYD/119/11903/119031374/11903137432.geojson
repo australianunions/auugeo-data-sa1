@@ -1,0 +1,75 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.108212606,
+                            -33.993256225
+                        ],
+                        [
+                            151.107362996,
+                            -33.993145354
+                        ],
+                        [
+                            151.107928563,
+                            -33.9901242299999
+                        ],
+                        [
+                            151.107932213,
+                            -33.990104731
+                        ],
+                        [
+                            151.107942725,
+                            -33.990110022
+                        ],
+                        [
+                            151.110209156,
+                            -33.990394145
+                        ],
+                        [
+                            151.110019611,
+                            -33.991394218
+                        ],
+                        [
+                            151.109831162,
+                            -33.9923945689999
+                        ],
+                        [
+                            151.10963461,
+                            -33.9934400029999
+                        ],
+                        [
+                            151.108706524,
+                            -33.993320586
+                        ],
+                        [
+                            151.108212606,
+                            -33.993256225
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "d8e9dccc-cf1a-506b-ac19-62a8acf1ac1f",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "87d61cd9-b9fb-5c1e-b242-6b17bfe9982a",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "11903137432",
+        "sa2_code": "119031374",
+        "sa2_name": "South Hurstville - Blakehurst",
+        "sa3_code": "11903",
+        "sa3_name": "Hurstville",
+        "sa4_code": "119",
+        "sa4_name": "Sydney - Inner South West",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

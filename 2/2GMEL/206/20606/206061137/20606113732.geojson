@@ -1,0 +1,59 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            144.997698258,
+                            -37.8370240159999
+                        ],
+                        [
+                            144.997129004,
+                            -37.836949998
+                        ],
+                        [
+                            144.997141013,
+                            -37.8368959969999
+                        ],
+                        [
+                            144.997217991,
+                            -37.8365229999999
+                        ],
+                        [
+                            144.997786004,
+                            -37.836601995
+                        ],
+                        [
+                            144.997721618,
+                            -37.8369358269999
+                        ],
+                        [
+                            144.997698258,
+                            -37.8370240159999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "c232e928-8969-513f-aa07-fff467e11133",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "4c5c25c0-b09a-5c41-bb95-116b42cd94c4",
+    "properties": {
+        "gccsa_code": "2GMEL",
+        "gccsa_name": "Greater Melbourne",
+        "sa1_code": "20606113732",
+        "sa2_code": "206061137",
+        "sa2_name": "South Yarra - East",
+        "sa3_code": "20606",
+        "sa3_name": "Stonnington - West",
+        "sa4_code": "206",
+        "sa4_name": "Melbourne - Inner",
+        "state_code": "2",
+        "state_name": "Victoria"
+    },
+    "type": "FeatureCollection"
+}

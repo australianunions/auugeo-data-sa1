@@ -1,0 +1,59 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            144.978347856,
+                            -37.805869351
+                        ],
+                        [
+                            144.978554665,
+                            -37.8046031
+                        ],
+                        [
+                            144.979661126,
+                            -37.804710696
+                        ],
+                        [
+                            144.979499869,
+                            -37.805663335
+                        ],
+                        [
+                            144.979445885,
+                            -37.805982571
+                        ],
+                        [
+                            144.978839985,
+                            -37.805920022
+                        ],
+                        [
+                            144.978347856,
+                            -37.805869351
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "821979b2-9430-58e4-a713-6edc603f4314",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "e11a9add-5d92-59a8-99ac-b32d7c4827ea",
+    "properties": {
+        "gccsa_code": "2GMEL",
+        "gccsa_name": "Greater Melbourne",
+        "sa1_code": "20607114201",
+        "sa2_code": "206071142",
+        "sa2_name": "Fitzroy",
+        "sa3_code": "20607",
+        "sa3_name": "Yarra",
+        "sa4_code": "206",
+        "sa4_name": "Melbourne - Inner",
+        "state_code": "2",
+        "state_name": "Victoria"
+    },
+    "type": "FeatureCollection"
+}

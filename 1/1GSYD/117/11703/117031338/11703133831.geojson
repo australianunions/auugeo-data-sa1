@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.211870015,
+                            -33.898474009
+                        ],
+                        [
+                            151.212350026,
+                            -33.8979398029999
+                        ],
+                        [
+                            151.213019618,
+                            -33.8980416639999
+                        ],
+                        [
+                            151.21293399,
+                            -33.898463001
+                        ],
+                        [
+                            151.212824015,
+                            -33.898974008
+                        ],
+                        [
+                            151.212740722,
+                            -33.8993711109999
+                        ],
+                        [
+                            151.211822163,
+                            -33.899253044
+                        ],
+                        [
+                            151.211387338,
+                            -33.8990116749999
+                        ],
+                        [
+                            151.211870015,
+                            -33.898474009
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "8b77b5b8-29b4-5156-a759-06f55810afbf",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "f66a3d8a-f7dd-5d8e-bdef-412822c072e7",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "11703133831",
+        "sa2_code": "117031338",
+        "sa2_name": "Waterloo - Beaconsfield",
+        "sa3_code": "11703",
+        "sa3_name": "Sydney Inner City",
+        "sa4_code": "117",
+        "sa4_name": "Sydney - City and Inner South",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

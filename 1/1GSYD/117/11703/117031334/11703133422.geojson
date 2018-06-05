@@ -1,0 +1,75 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.18935718,
+                            -33.86756654
+                        ],
+                        [
+                            151.188945168,
+                            -33.8669382799999
+                        ],
+                        [
+                            151.188934838,
+                            -33.866894343
+                        ],
+                        [
+                            151.188934838,
+                            -33.866871088
+                        ],
+                        [
+                            151.188942576,
+                            -33.866837474
+                        ],
+                        [
+                            151.188965863,
+                            -33.8668245609999
+                        ],
+                        [
+                            151.190804879,
+                            -33.866114216
+                        ],
+                        [
+                            151.191227878,
+                            -33.866823321
+                        ],
+                        [
+                            151.190693262,
+                            -33.867039771
+                        ],
+                        [
+                            151.190125577,
+                            -33.867269726
+                        ],
+                        [
+                            151.18935718,
+                            -33.86756654
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "a73464b3-72bd-5a2e-a798-8a30ecb9522c",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "a1aba341-7bb9-568f-bc73-5b6cbdaef662",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "11703133422",
+        "sa2_code": "117031334",
+        "sa2_name": "Pyrmont - Ultimo",
+        "sa3_code": "11703",
+        "sa3_name": "Sydney Inner City",
+        "sa4_code": "117",
+        "sa4_name": "Sydney - City and Inner South",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

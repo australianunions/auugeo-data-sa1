@@ -1,0 +1,75 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.21293399,
+                            -33.898463001
+                        ],
+                        [
+                            151.213019618,
+                            -33.8980416639999
+                        ],
+                        [
+                            151.214254998,
+                            -33.898220152
+                        ],
+                        [
+                            151.214166996,
+                            -33.898632998
+                        ],
+                        [
+                            151.214058007,
+                            -33.899138992
+                        ],
+                        [
+                            151.214005009,
+                            -33.8994222819999
+                        ],
+                        [
+                            151.213975809,
+                            -33.899563566
+                        ],
+                        [
+                            151.213252087,
+                            -33.8994507909999
+                        ],
+                        [
+                            151.212740722,
+                            -33.8993711109999
+                        ],
+                        [
+                            151.212824015,
+                            -33.898974008
+                        ],
+                        [
+                            151.21293399,
+                            -33.898463001
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "5d5bb2af-27d1-5932-ad6e-7a6b4eecc99a",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "b614e3a0-6d9a-5bd7-83d6-b00b101c2d39",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "11703133829",
+        "sa2_code": "117031338",
+        "sa2_name": "Waterloo - Beaconsfield",
+        "sa3_code": "11703",
+        "sa3_name": "Sydney Inner City",
+        "sa4_code": "117",
+        "sa4_name": "Sydney - City and Inner South",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

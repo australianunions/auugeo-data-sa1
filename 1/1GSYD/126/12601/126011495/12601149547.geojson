@@ -1,0 +1,59 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.088887499,
+                            -33.7692334719999
+                        ],
+                        [
+                            151.087153311,
+                            -33.769231566
+                        ],
+                        [
+                            151.087154041,
+                            -33.7676026409999
+                        ],
+                        [
+                            151.088891404,
+                            -33.7676059529999
+                        ],
+                        [
+                            151.090953873,
+                            -33.767609856
+                        ],
+                        [
+                            151.090953873,
+                            -33.7692356919999
+                        ],
+                        [
+                            151.088887499,
+                            -33.7692334719999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "e1e71e17-0432-5268-83d5-0de908cd883a",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "c27faa7e-4d1e-515e-a240-ce114cf83b8d",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "12601149547",
+        "sa2_code": "126011495",
+        "sa2_name": "Epping - North Epping",
+        "sa3_code": "12601",
+        "sa3_name": "Pennant Hills - Epping",
+        "sa4_code": "126",
+        "sa4_name": "Sydney - Ryde",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

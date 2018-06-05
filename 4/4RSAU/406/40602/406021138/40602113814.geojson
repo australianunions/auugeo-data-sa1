@@ -1,0 +1,51 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            132.006696879,
+                            -26.7977210359999
+                        ],
+                        [
+                            132.00568112,
+                            -26.7484214589999
+                        ],
+                        [
+                            132.049930764,
+                            -26.748602075
+                        ],
+                        [
+                            132.051960529,
+                            -26.797357604
+                        ],
+                        [
+                            132.006696879,
+                            -26.7977210359999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "d1feb700-e38e-5848-a47c-275adff93a5f",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "1d1b9418-6490-5d19-b72f-3901b12e51e0",
+    "properties": {
+        "gccsa_code": "4RSAU",
+        "gccsa_name": "Rest of SA",
+        "sa1_code": "40602113814",
+        "sa2_code": "406021138",
+        "sa2_name": "APY Lands",
+        "sa3_code": "40602",
+        "sa3_name": "Outback - North and East",
+        "sa4_code": "406",
+        "sa4_name": "South Australia - Outback",
+        "state_code": "4",
+        "state_name": "South Australia"
+    },
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.093375539,
+                            -33.9196627809999
+                        ],
+                        [
+                            151.093039665,
+                            -33.919092925
+                        ],
+                        [
+                            151.092864721,
+                            -33.918796167
+                        ],
+                        [
+                            151.095295037,
+                            -33.9178136689999
+                        ],
+                        [
+                            151.095801584,
+                            -33.9186883479999
+                        ],
+                        [
+                            151.096302364,
+                            -33.919553612
+                        ],
+                        [
+                            151.093887488,
+                            -33.9205302829999
+                        ],
+                        [
+                            151.093753569,
+                            -33.9203033979999
+                        ],
+                        [
+                            151.093375539,
+                            -33.9196627809999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "317ada4c-8f57-5035-a062-2ee086660013",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "9c7e1582-767f-5fd3-8e3c-101d1566db35",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "11902136202",
+        "sa2_code": "119021362",
+        "sa2_name": "Belmore - Belfield",
+        "sa3_code": "11902",
+        "sa3_name": "Canterbury",
+        "sa4_code": "119",
+        "sa4_name": "Sydney - Inner South West",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

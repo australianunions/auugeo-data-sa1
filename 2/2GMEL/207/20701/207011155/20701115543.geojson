@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            145.077389292,
+                            -37.8179759729999
+                        ],
+                        [
+                            145.080300131,
+                            -37.818320221
+                        ],
+                        [
+                            145.080067333,
+                            -37.819575538
+                        ],
+                        [
+                            145.079935058,
+                            -37.820290008
+                        ],
+                        [
+                            145.079880125,
+                            -37.8205866929999
+                        ],
+                        [
+                            145.076950416,
+                            -37.820260611
+                        ],
+                        [
+                            145.075862168,
+                            -37.820139473
+                        ],
+                        [
+                            145.076303526,
+                            -37.8178488959999
+                        ],
+                        [
+                            145.077143793,
+                            -37.81794726
+                        ],
+                        [
+                            145.077389292,
+                            -37.8179759729999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "87d53c48-81ee-5b9e-bf1d-2506fbe7e5d8",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "af8e5ae1-d93b-53c6-a0fa-83f002e6dd6d",
+    "properties": {
+        "gccsa_code": "2GMEL",
+        "gccsa_name": "Greater Melbourne",
+        "sa1_code": "20701115543",
+        "sa2_code": "207011155",
+        "sa2_name": "Surrey Hills (West) - Canterbury",
+        "sa3_code": "20701",
+        "sa3_name": "Boroondara",
+        "sa4_code": "207",
+        "sa4_name": "Melbourne - Inner East",
+        "state_code": "2",
+        "state_name": "Victoria"
+    },
+    "type": "FeatureCollection"
+}

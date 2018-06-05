@@ -1,0 +1,63 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            139.338562583,
+                            -35.0904959229999
+                        ],
+                        [
+                            139.335890053,
+                            -35.0886225579999
+                        ],
+                        [
+                            139.335785152,
+                            -35.088481477
+                        ],
+                        [
+                            139.344381851,
+                            -35.0797457959999
+                        ],
+                        [
+                            139.349096994,
+                            -35.0818446759999
+                        ],
+                        [
+                            139.350219406,
+                            -35.0891563939999
+                        ],
+                        [
+                            139.342149329,
+                            -35.087075921
+                        ],
+                        [
+                            139.338562583,
+                            -35.0904959229999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "e229f5be-6ac6-54a9-94e8-7516a7d972ba",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "ce3f9d59-19d2-54c3-b15d-2f4d7fe1e4e9",
+    "properties": {
+        "gccsa_code": "4RSAU",
+        "gccsa_name": "Rest of SA",
+        "sa1_code": "40703116603",
+        "sa2_code": "407031166",
+        "sa2_name": "Murray Bridge Region",
+        "sa3_code": "40703",
+        "sa3_name": "Murray and Mallee",
+        "sa4_code": "407",
+        "sa4_name": "South Australia - South East",
+        "state_code": "4",
+        "state_name": "South Australia"
+    },
+    "type": "FeatureCollection"
+}

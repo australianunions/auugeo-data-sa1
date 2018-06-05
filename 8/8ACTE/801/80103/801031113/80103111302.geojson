@@ -1,0 +1,75 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            149.15322001,
+                            -35.3467982719999
+                        ],
+                        [
+                            149.155866953,
+                            -35.3452721699999
+                        ],
+                        [
+                            149.156060987,
+                            -35.3451740089999
+                        ],
+                        [
+                            149.157046012,
+                            -35.346318993
+                        ],
+                        [
+                            149.158100899,
+                            -35.3475019749999
+                        ],
+                        [
+                            149.155160495,
+                            -35.3492077299999
+                        ],
+                        [
+                            149.153130986,
+                            -35.350370992
+                        ],
+                        [
+                            149.152997578,
+                            -35.350285411
+                        ],
+                        [
+                            149.150276576,
+                            -35.347117064
+                        ],
+                        [
+                            149.150377681,
+                            -35.3464903029999
+                        ],
+                        [
+                            149.15322001,
+                            -35.3467982719999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "5e70edcb-4f13-5e2d-9beb-e1a167167b96",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "b39d94a7-bcc7-51ac-b9c0-97aeea2eaa83",
+    "properties": {
+        "gccsa_code": "8ACTE",
+        "gccsa_name": "Australian Capital Territory",
+        "sa1_code": "80103111302",
+        "sa2_code": "801031113",
+        "sa2_name": "Canberra East",
+        "sa3_code": "80103",
+        "sa3_name": "Canberra East",
+        "sa4_code": "801",
+        "sa4_name": "Australian Capital Territory",
+        "state_code": "8",
+        "state_name": "Australian Capital Territory"
+    },
+    "type": "FeatureCollection"
+}

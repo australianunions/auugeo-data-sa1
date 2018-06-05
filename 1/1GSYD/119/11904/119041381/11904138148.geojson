@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.140137769,
+                            -33.952635812
+                        ],
+                        [
+                            151.139297575,
+                            -33.952274729
+                        ],
+                        [
+                            151.139469965,
+                            -33.9519954529999
+                        ],
+                        [
+                            151.14007331,
+                            -33.952073948
+                        ],
+                        [
+                            151.140535546,
+                            -33.9521346839999
+                        ],
+                        [
+                            151.140502076,
+                            -33.952153054
+                        ],
+                        [
+                            151.140450246,
+                            -33.952194457
+                        ],
+                        [
+                            151.140401628,
+                            -33.952243316
+                        ],
+                        [
+                            151.140341147,
+                            -33.952310822
+                        ],
+                        [
+                            151.140137769,
+                            -33.952635812
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "1dc284ac-a510-5849-8c83-34381eecf831",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "221f9b28-3b09-51e8-bf9c-40e26f828770",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "11904138148",
+        "sa2_code": "119041381",
+        "sa2_name": "Rockdale - Banksia",
+        "sa3_code": "11904",
+        "sa3_name": "Kogarah - Rockdale",
+        "sa4_code": "119",
+        "sa4_name": "Sydney - Inner South West",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

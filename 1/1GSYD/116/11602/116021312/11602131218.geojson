@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            150.860959197,
+                            -33.6692038419999
+                        ],
+                        [
+                            150.860143824,
+                            -33.668124534
+                        ],
+                        [
+                            150.862160157,
+                            -33.6670562699999
+                        ],
+                        [
+                            150.864211457,
+                            -33.665969339
+                        ],
+                        [
+                            150.86503548,
+                            -33.6670578979999
+                        ],
+                        [
+                            150.865849102,
+                            -33.668133487
+                        ],
+                        [
+                            150.864432427,
+                            -33.6688819239999
+                        ],
+                        [
+                            150.8637924,
+                            -33.669219604
+                        ],
+                        [
+                            150.86177603,
+                            -33.670284668
+                        ],
+                        [
+                            150.860959197,
+                            -33.6692038419999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "785543c4-1713-5621-875f-1a1b24ae00ed",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "6bec8191-c0eb-5198-85b4-ce1b6bd52c37",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "11602131218",
+        "sa2_code": "116021312",
+        "sa2_name": "Riverstone - Marsden Park",
+        "sa3_code": "11602",
+        "sa3_name": "Blacktown - North",
+        "sa4_code": "116",
+        "sa4_name": "Sydney - Blacktown",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

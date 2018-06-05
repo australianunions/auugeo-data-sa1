@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.08306969,
+                            -33.8344249739999
+                        ],
+                        [
+                            151.082983697,
+                            -33.834394967
+                        ],
+                        [
+                            151.083042461,
+                            -33.8332974539999
+                        ],
+                        [
+                            151.083193973,
+                            -33.8332674659999
+                        ],
+                        [
+                            151.083329607,
+                            -33.8332868169999
+                        ],
+                        [
+                            151.084469247,
+                            -33.8334555929999
+                        ],
+                        [
+                            151.084280432,
+                            -33.8343076469999
+                        ],
+                        [
+                            151.084284593,
+                            -33.834396188
+                        ],
+                        [
+                            151.083837651,
+                            -33.834564945
+                        ],
+                        [
+                            151.08306969,
+                            -33.8344249739999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "e34a2629-7aa1-5560-819d-710d1c52ec51",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "b17d1eca-3fe5-5c3b-bc0b-661b79b4bd2d",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "12001138448",
+        "sa2_code": "120011384",
+        "sa2_name": "Concord West - North Strathfield",
+        "sa3_code": "12001",
+        "sa3_name": "Canada Bay",
+        "sa4_code": "120",
+        "sa4_name": "Sydney - Inner West",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

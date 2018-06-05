@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.099960978,
+                            -33.7001555259999
+                        ],
+                        [
+                            151.100682108,
+                            -33.7002518739999
+                        ],
+                        [
+                            151.100463765,
+                            -33.7013220439999
+                        ],
+                        [
+                            151.100226479,
+                            -33.702485305
+                        ],
+                        [
+                            151.100065587,
+                            -33.7024627719999
+                        ],
+                        [
+                            151.099338215,
+                            -33.702344372
+                        ],
+                        [
+                            151.098621172,
+                            -33.702248227
+                        ],
+                        [
+                            151.099255725,
+                            -33.700044248
+                        ],
+                        [
+                            151.099960978,
+                            -33.7001555259999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "9c3a06fa-e96a-5533-8c98-c8fc00a4d631",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "52f36d99-0039-5a74-ad72-8790113c6c9c",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "12102157726",
+        "sa2_code": "121021577",
+        "sa2_name": "Hornsby - East",
+        "sa3_code": "12102",
+        "sa3_name": "Hornsby",
+        "sa4_code": "121",
+        "sa4_name": "Sydney - North Sydney and Hornsby",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

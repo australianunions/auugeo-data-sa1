@@ -1,0 +1,79 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.172519766,
+                            -33.900817589
+                        ],
+                        [
+                            151.172970103,
+                            -33.900712287
+                        ],
+                        [
+                            151.173390984,
+                            -33.900614181
+                        ],
+                        [
+                            151.1734073,
+                            -33.9006632439999
+                        ],
+                        [
+                            151.173827634,
+                            -33.901928015
+                        ],
+                        [
+                            151.173006128,
+                            -33.90220113
+                        ],
+                        [
+                            151.172130238,
+                            -33.902494207
+                        ],
+                        [
+                            151.172048515,
+                            -33.902315997
+                        ],
+                        [
+                            151.172031615,
+                            -33.90224418
+                        ],
+                        [
+                            151.171616172,
+                            -33.90102934
+                        ],
+                        [
+                            151.172066874,
+                            -33.9009236119999
+                        ],
+                        [
+                            151.172519766,
+                            -33.900817589
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "984444d9-bf4a-59c7-a3cc-91a12d6509af",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "05b3be6e-f69f-5418-bc1b-36a9b0e95c81",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "11702132727",
+        "sa2_code": "117021327",
+        "sa2_name": "Petersham - Stanmore",
+        "sa3_code": "11702",
+        "sa3_name": "Marrickville - Sydenham - Petersham",
+        "sa4_code": "117",
+        "sa4_name": "Sydney - City and Inner South",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

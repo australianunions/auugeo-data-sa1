@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            148.160264994,
+                            -23.5183
+                        ],
+                        [
+                            148.161445002,
+                            -23.516147006
+                        ],
+                        [
+                            148.16257705,
+                            -23.516661954
+                        ],
+                        [
+                            148.163911928,
+                            -23.517269013
+                        ],
+                        [
+                            148.16274192,
+                            -23.519429998
+                        ],
+                        [
+                            148.161909939,
+                            -23.520995006
+                        ],
+                        [
+                            148.160570061,
+                            -23.5203810269999
+                        ],
+                        [
+                            148.159431991,
+                            -23.519832003
+                        ],
+                        [
+                            148.160264994,
+                            -23.5183
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "bdecb3f5-38be-5c3b-86c3-59c9e5bdb396",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "8894659c-303d-5544-aad6-f577f9f9b6ba",
+    "properties": {
+        "gccsa_code": "3RQLD",
+        "gccsa_name": "Rest of Qld",
+        "sa1_code": "30801119232",
+        "sa2_code": "308011192",
+        "sa2_name": "Emerald",
+        "sa3_code": "30801",
+        "sa3_name": "Central Highlands (Qld)",
+        "sa4_code": "308",
+        "sa4_name": "Central Queensland",
+        "state_code": "3",
+        "state_name": "Queensland"
+    },
+    "type": "FeatureCollection"
+}

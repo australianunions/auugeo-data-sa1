@@ -1,0 +1,59 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            135.250949994,
+                            -20.4688465429999
+                        ],
+                        [
+                            135.246870098,
+                            -20.465807196
+                        ],
+                        [
+                            135.24368299,
+                            -20.463417125
+                        ],
+                        [
+                            135.250344496,
+                            -20.456115471
+                        ],
+                        [
+                            135.257139591,
+                            -20.460388694
+                        ],
+                        [
+                            135.25480527,
+                            -20.463500579
+                        ],
+                        [
+                            135.250949994,
+                            -20.4688465429999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "6428ab55-c1e0-56b6-a0c1-4e768ee27254",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "c69fd9d1-9a57-5992-90f7-84d9f6a75f31",
+    "properties": {
+        "gccsa_code": "7RNTE",
+        "gccsa_name": "Rest of NT",
+        "sa1_code": "70202105506",
+        "sa2_code": "702021055",
+        "sa2_name": "Barkly",
+        "sa3_code": "70202",
+        "sa3_name": "Barkly",
+        "sa4_code": "702",
+        "sa4_name": "Northern Territory - Outback",
+        "state_code": "7",
+        "state_name": "Northern Territory"
+    },
+    "type": "FeatureCollection"
+}

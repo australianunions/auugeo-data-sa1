@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            144.986158016,
+                            -37.8107039929999
+                        ],
+                        [
+                            144.985518719,
+                            -37.810632324
+                        ],
+                        [
+                            144.985058563,
+                            -37.810580746
+                        ],
+                        [
+                            144.985084624,
+                            -37.810445307
+                        ],
+                        [
+                            144.985234931,
+                            -37.809544709
+                        ],
+                        [
+                            144.98530169,
+                            -37.809219904
+                        ],
+                        [
+                            144.985625627,
+                            -37.8092491159999
+                        ],
+                        [
+                            144.986390266,
+                            -37.809330571
+                        ],
+                        [
+                            144.986158016,
+                            -37.8107039929999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "e1864fab-103b-579d-8e93-2de1d62df1d7",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "6538a716-3ac3-5953-aa4b-6d4957d63e8e",
+    "properties": {
+        "gccsa_code": "2GMEL",
+        "gccsa_name": "Greater Melbourne",
+        "sa1_code": "20604111909",
+        "sa2_code": "206041119",
+        "sa2_name": "East Melbourne",
+        "sa3_code": "20604",
+        "sa3_name": "Melbourne City",
+        "sa4_code": "206",
+        "sa4_name": "Melbourne - Inner",
+        "state_code": "2",
+        "state_name": "Victoria"
+    },
+    "type": "FeatureCollection"
+}

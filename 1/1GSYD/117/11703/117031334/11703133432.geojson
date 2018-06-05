@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.197160989,
+                            -33.879262
+                        ],
+                        [
+                            151.196783761,
+                            -33.8786127979999
+                        ],
+                        [
+                            151.197710642,
+                            -33.8782428719999
+                        ],
+                        [
+                            151.198085899,
+                            -33.878920582
+                        ],
+                        [
+                            151.198345779,
+                            -33.8793666359999
+                        ],
+                        [
+                            151.198557114,
+                            -33.879728977
+                        ],
+                        [
+                            151.197642314,
+                            -33.880092761
+                        ],
+                        [
+                            151.197433936,
+                            -33.8797335639999
+                        ],
+                        [
+                            151.197160989,
+                            -33.879262
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "b8e57c48-3d74-571f-8df4-8ea0f24258e1",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "f174411e-fdd2-5498-a4b7-3453afb6ce78",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "11703133432",
+        "sa2_code": "117031334",
+        "sa2_name": "Pyrmont - Ultimo",
+        "sa3_code": "11703",
+        "sa3_name": "Sydney Inner City",
+        "sa4_code": "117",
+        "sa4_name": "Sydney - City and Inner South",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

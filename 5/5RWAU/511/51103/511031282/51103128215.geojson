@@ -1,0 +1,63 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            121.339477088,
+                            -30.8266480949999
+                        ],
+                        [
+                            121.331287729,
+                            -30.8310951619999
+                        ],
+                        [
+                            121.319403694,
+                            -30.837810292
+                        ],
+                        [
+                            121.319297625,
+                            -30.827291728
+                        ],
+                        [
+                            121.319307626,
+                            -30.816469395
+                        ],
+                        [
+                            121.339443983,
+                            -30.8164771469999
+                        ],
+                        [
+                            121.339441537,
+                            -30.82616408
+                        ],
+                        [
+                            121.339477088,
+                            -30.8266480949999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "242ea97e-3cab-52f9-a9ad-7ddc8b15f3d2",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "b5454772-f1a0-5485-a9a3-ff8ad03dec71",
+    "properties": {
+        "gccsa_code": "5RWAU",
+        "gccsa_name": "Rest of WA",
+        "sa1_code": "51103128215",
+        "sa2_code": "511031282",
+        "sa2_name": "Kambalda - Coolgardie - Norseman",
+        "sa3_code": "51103",
+        "sa3_name": "Goldfields",
+        "sa4_code": "511",
+        "sa4_name": "Western Australia - Outback (South)",
+        "state_code": "5",
+        "state_name": "Western Australia"
+    },
+    "type": "FeatureCollection"
+}

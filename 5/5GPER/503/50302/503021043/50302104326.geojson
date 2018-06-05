@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            115.819954899,
+                            -31.934346751
+                        ],
+                        [
+                            115.821126002,
+                            -31.9343459369999
+                        ],
+                        [
+                            115.821061178,
+                            -31.937428703
+                        ],
+                        [
+                            115.819920699,
+                            -31.937438877
+                        ],
+                        [
+                            115.818756824,
+                            -31.937433476
+                        ],
+                        [
+                            115.817562361,
+                            -31.937441301
+                        ],
+                        [
+                            115.817610577,
+                            -31.934349359
+                        ],
+                        [
+                            115.818794272,
+                            -31.9343477309999
+                        ],
+                        [
+                            115.819308339,
+                            -31.934348009
+                        ],
+                        [
+                            115.819954899,
+                            -31.934346751
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "31c936ae-572c-5d80-b788-b2dd6017912a",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "25425445-bb3c-51df-8715-a8d1540c00f1",
+    "properties": {
+        "gccsa_code": "5GPER",
+        "gccsa_name": "Greater Perth",
+        "sa1_code": "50302104326",
+        "sa2_code": "503021043",
+        "sa2_name": "Wembley - West Leederville - Glendalough",
+        "sa3_code": "50302",
+        "sa3_name": "Perth City",
+        "sa4_code": "503",
+        "sa4_name": "Perth - Inner",
+        "state_code": "5",
+        "state_name": "Western Australia"
+    },
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,63 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            149.125354011,
+                            -35.2773410029999
+                        ],
+                        [
+                            149.124674965,
+                            -35.276935002
+                        ],
+                        [
+                            149.12401187,
+                            -35.2765392119999
+                        ],
+                        [
+                            149.12463299,
+                            -35.275841004
+                        ],
+                        [
+                            149.124803007,
+                            -35.275950006
+                        ],
+                        [
+                            149.126032984,
+                            -35.2766849929999
+                        ],
+                        [
+                            149.125848988,
+                            -35.276784004
+                        ],
+                        [
+                            149.125354011,
+                            -35.2773410029999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "e954148d-6216-5b89-8f59-33aeebf19f6d",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "be03b519-6f03-5f33-a60b-3df95dc63a30",
+    "properties": {
+        "gccsa_code": "8ACTE",
+        "gccsa_name": "Australian Capital Territory",
+        "sa1_code": "80105105307",
+        "sa2_code": "801051053",
+        "sa2_name": "Civic",
+        "sa3_code": "80105",
+        "sa3_name": "North Canberra",
+        "sa4_code": "801",
+        "sa4_name": "Australian Capital Territory",
+        "state_code": "8",
+        "state_name": "Australian Capital Territory"
+    },
+    "type": "FeatureCollection"
+}

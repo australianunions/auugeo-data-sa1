@@ -1,0 +1,63 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.084469247,
+                            -33.8334555929999
+                        ],
+                        [
+                            151.083329607,
+                            -33.8332868169999
+                        ],
+                        [
+                            151.083193973,
+                            -33.8332674659999
+                        ],
+                        [
+                            151.083042461,
+                            -33.8332974539999
+                        ],
+                        [
+                            151.083086554,
+                            -33.832474223
+                        ],
+                        [
+                            151.083720923,
+                            -33.8325871659999
+                        ],
+                        [
+                            151.084687517,
+                            -33.8327200699999
+                        ],
+                        [
+                            151.084469247,
+                            -33.8334555929999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "e9fe55cc-4e93-54dd-af00-4042f22b2f1c",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "0bd275c8-62ec-5edf-af29-8d425b00d56a",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "12001138444",
+        "sa2_code": "120011384",
+        "sa2_name": "Concord West - North Strathfield",
+        "sa3_code": "12001",
+        "sa3_name": "Canada Bay",
+        "sa4_code": "120",
+        "sa4_name": "Sydney - Inner West",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

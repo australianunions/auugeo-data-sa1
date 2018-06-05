@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.015844501,
+                            -33.92264313
+                        ],
+                        [
+                            151.016287684,
+                            -33.920499868
+                        ],
+                        [
+                            151.01768808,
+                            -33.920701204
+                        ],
+                        [
+                            151.019183887,
+                            -33.9209163959999
+                        ],
+                        [
+                            151.018740339,
+                            -33.9230581219999
+                        ],
+                        [
+                            151.018209738,
+                            -33.925620336
+                        ],
+                        [
+                            151.017856929,
+                            -33.9255707369999
+                        ],
+                        [
+                            151.01671426,
+                            -33.925406032
+                        ],
+                        [
+                            151.015315689,
+                            -33.9252015509999
+                        ],
+                        [
+                            151.015844501,
+                            -33.92264313
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "1d4925a4-82f6-52c5-8cd9-b0c2388e45b9",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "90c80e74-e9b1-5bdf-b5be-9d9ece273af1",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "11901135611",
+        "sa2_code": "119011356",
+        "sa2_name": "Condell Park",
+        "sa3_code": "11901",
+        "sa3_name": "Bankstown",
+        "sa4_code": "119",
+        "sa4_name": "Sydney - Inner South West",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

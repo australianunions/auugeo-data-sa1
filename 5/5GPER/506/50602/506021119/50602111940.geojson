@@ -1,0 +1,63 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            115.918371711,
+                            -31.9829110269999
+                        ],
+                        [
+                            115.919278992,
+                            -31.9821398359999
+                        ],
+                        [
+                            115.920914739,
+                            -31.9835081699999
+                        ],
+                        [
+                            115.922418101,
+                            -31.984807406
+                        ],
+                        [
+                            115.920546454,
+                            -31.9863864549999
+                        ],
+                        [
+                            115.919029915,
+                            -31.985098818
+                        ],
+                        [
+                            115.917426799,
+                            -31.9837094129999
+                        ],
+                        [
+                            115.918371711,
+                            -31.9829110269999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "eee68dc2-3575-54a6-a6d6-e2576b043c7e",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "31f45d6c-31cd-5ad3-91cb-beb82f7612f0",
+    "properties": {
+        "gccsa_code": "5GPER",
+        "gccsa_name": "Greater Perth",
+        "sa1_code": "50602111940",
+        "sa2_code": "506021119",
+        "sa2_name": "East Victoria Park - Carlisle",
+        "sa3_code": "50602",
+        "sa3_name": "Belmont - Victoria Park",
+        "sa4_code": "506",
+        "sa4_name": "Perth - South East",
+        "state_code": "5",
+        "state_name": "Western Australia"
+    },
+    "type": "FeatureCollection"
+}

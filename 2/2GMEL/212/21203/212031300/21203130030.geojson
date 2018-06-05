@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            145.272370686,
+                            -38.106053644
+                        ],
+                        [
+                            145.272534863,
+                            -38.1052127629999
+                        ],
+                        [
+                            145.272704405,
+                            -38.1043422079999
+                        ],
+                        [
+                            145.274915867,
+                            -38.1046102179999
+                        ],
+                        [
+                            145.274747785,
+                            -38.1054850269999
+                        ],
+                        [
+                            145.274587185,
+                            -38.106319137
+                        ],
+                        [
+                            145.274239084,
+                            -38.1081284919999
+                        ],
+                        [
+                            145.272017877,
+                            -38.107864072
+                        ],
+                        [
+                            145.272370686,
+                            -38.106053644
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "18911154-325b-558e-b06b-399e6faae3ad",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "4b09485b-bcbd-54e9-b6bd-e903e8d4b53d",
+    "properties": {
+        "gccsa_code": "2GMEL",
+        "gccsa_name": "Greater Melbourne",
+        "sa1_code": "21203130030",
+        "sa2_code": "212031300",
+        "sa2_name": "Cranbourne",
+        "sa3_code": "21203",
+        "sa3_name": "Casey - South",
+        "sa4_code": "212",
+        "sa4_name": "Melbourne - South East",
+        "state_code": "2",
+        "state_name": "Victoria"
+    },
+    "type": "FeatureCollection"
+}

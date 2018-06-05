@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            132.757167612,
+                            -22.5341261209999
+                        ],
+                        [
+                            132.768895025,
+                            -22.534984466
+                        ],
+                        [
+                            132.78281441,
+                            -22.550743191
+                        ],
+                        [
+                            132.754534903,
+                            -22.550865384
+                        ],
+                        [
+                            132.747119308,
+                            -22.550797711
+                        ],
+                        [
+                            132.747669363,
+                            -22.544440019
+                        ],
+                        [
+                            132.749289379,
+                            -22.540462834
+                        ],
+                        [
+                            132.752952336,
+                            -22.533344996
+                        ],
+                        [
+                            132.757934769,
+                            -22.531148195
+                        ],
+                        [
+                            132.757167612,
+                            -22.5341261209999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "b8cd70d1-7aaa-5098-90f2-616a0060d539",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "e731a62d-7527-5b54-8591-7d06cebc906f",
+    "properties": {
+        "gccsa_code": "7RNTE",
+        "gccsa_name": "Rest of NT",
+        "sa1_code": "70201105405",
+        "sa2_code": "702011054",
+        "sa2_name": "Yuendumu - Anmatjere",
+        "sa3_code": "70201",
+        "sa3_name": "Alice Springs",
+        "sa4_code": "702",
+        "sa4_name": "Northern Territory - Outback",
+        "state_code": "7",
+        "state_name": "Northern Territory"
+    },
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            144.918608306,
+                            -37.7821491129999
+                        ],
+                        [
+                            144.917378767,
+                            -37.782023406
+                        ],
+                        [
+                            144.91597213,
+                            -37.7818795869999
+                        ],
+                        [
+                            144.915110255,
+                            -37.7809663529999
+                        ],
+                        [
+                            144.91607506,
+                            -37.780389449
+                        ],
+                        [
+                            144.918147603,
+                            -37.7806376629999
+                        ],
+                        [
+                            144.91909945,
+                            -37.780734067
+                        ],
+                        [
+                            144.918853221,
+                            -37.782174144
+                        ],
+                        [
+                            144.918608306,
+                            -37.7821491129999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "a5604bce-56ad-5b8d-88e0-cc79bb27c9c9",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "0c0bab79-8678-58f0-859c-d605093a483a",
+    "properties": {
+        "gccsa_code": "2GMEL",
+        "gccsa_name": "Greater Melbourne",
+        "sa1_code": "20603111318",
+        "sa2_code": "206031113",
+        "sa2_name": "Ascot Vale",
+        "sa3_code": "20603",
+        "sa3_name": "Essendon",
+        "sa4_code": "206",
+        "sa4_name": "Melbourne - Inner",
+        "state_code": "2",
+        "state_name": "Victoria"
+    },
+    "type": "FeatureCollection"
+}

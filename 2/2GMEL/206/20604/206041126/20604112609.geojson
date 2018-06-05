@@ -1,0 +1,55 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            144.964765805,
+                            -37.82231487
+                        ],
+                        [
+                            144.964520014,
+                            -37.822112998
+                        ],
+                        [
+                            144.963829105,
+                            -37.821440616
+                        ],
+                        [
+                            144.96546529,
+                            -37.821013562
+                        ],
+                        [
+                            144.965818829,
+                            -37.8218402159999
+                        ],
+                        [
+                            144.964765805,
+                            -37.82231487
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "cfc043a6-e9d0-5005-a923-6bef8bb31ccf",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "bebe8398-7c06-5d0a-aa1e-0dcbe2e8662d",
+    "properties": {
+        "gccsa_code": "2GMEL",
+        "gccsa_name": "Greater Melbourne",
+        "sa1_code": "20604112609",
+        "sa2_code": "206041126",
+        "sa2_name": "Southbank",
+        "sa3_code": "20604",
+        "sa3_name": "Melbourne City",
+        "sa4_code": "206",
+        "sa4_name": "Melbourne - Inner",
+        "state_code": "2",
+        "state_name": "Victoria"
+    },
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            128.571230009,
+                            -18.8306550039999
+                        ],
+                        [
+                            128.571226103,
+                            -18.78340593
+                        ],
+                        [
+                            128.631574108,
+                            -18.7834056889999
+                        ],
+                        [
+                            128.631575021,
+                            -18.8331100089999
+                        ],
+                        [
+                            128.615644997,
+                            -18.833114005
+                        ],
+                        [
+                            128.59788001,
+                            -18.8331160029999
+                        ],
+                        [
+                            128.575671986,
+                            -18.8331160029999
+                        ],
+                        [
+                            128.571230994,
+                            -18.833115004
+                        ],
+                        [
+                            128.571230009,
+                            -18.8306550039999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "29da1dc2-ae10-5d11-b2eb-e464fbef8d55",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "53f86020-8c49-5ee4-ba46-63ce990e1723",
+    "properties": {
+        "gccsa_code": "5RWAU",
+        "gccsa_name": "Rest of WA",
+        "sa1_code": "51001126409",
+        "sa2_code": "510011264",
+        "sa2_name": "Halls Creek",
+        "sa3_code": "51001",
+        "sa3_name": "Kimberley",
+        "sa4_code": "510",
+        "sa4_name": "Western Australia - Outback (North)",
+        "state_code": "5",
+        "state_name": "Western Australia"
+    },
+    "type": "FeatureCollection"
+}

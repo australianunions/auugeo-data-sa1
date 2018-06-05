@@ -1,0 +1,63 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            144.94385521,
+                            -37.843212692
+                        ],
+                        [
+                            144.943481997,
+                            -37.8430120039999
+                        ],
+                        [
+                            144.943164739,
+                            -37.84284099
+                        ],
+                        [
+                            144.944067238,
+                            -37.842174084
+                        ],
+                        [
+                            144.944561156,
+                            -37.8424598349999
+                        ],
+                        [
+                            144.945574104,
+                            -37.8430457659999
+                        ],
+                        [
+                            144.944904549,
+                            -37.8437691349999
+                        ],
+                        [
+                            144.94385521,
+                            -37.843212692
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "b0c8661c-c0b6-5453-927d-4b9b855ea196",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "0ef96017-e8ac-5eb7-9ca3-eff8747f62bc",
+    "properties": {
+        "gccsa_code": "2GMEL",
+        "gccsa_name": "Greater Melbourne",
+        "sa1_code": "20605113033",
+        "sa2_code": "206051130",
+        "sa2_name": "Port Melbourne",
+        "sa3_code": "20605",
+        "sa3_name": "Port Phillip",
+        "sa4_code": "206",
+        "sa4_name": "Melbourne - Inner",
+        "state_code": "2",
+        "state_name": "Victoria"
+    },
+    "type": "FeatureCollection"
+}

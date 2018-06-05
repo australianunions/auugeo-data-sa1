@@ -1,0 +1,75 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.178532447,
+                            -33.7985579699999
+                        ],
+                        [
+                            151.178337136,
+                            -33.7980172699999
+                        ],
+                        [
+                            151.178237272,
+                            -33.797721566
+                        ],
+                        [
+                            151.178336479,
+                            -33.797696647
+                        ],
+                        [
+                            151.178836018,
+                            -33.797548998
+                        ],
+                        [
+                            151.179282012,
+                            -33.7974170009999
+                        ],
+                        [
+                            151.179454,
+                            -33.7978329919999
+                        ],
+                        [
+                            151.179609015,
+                            -33.7982159969999
+                        ],
+                        [
+                            151.179096263,
+                            -33.798375171
+                        ],
+                        [
+                            151.178627165,
+                            -33.798521395
+                        ],
+                        [
+                            151.178532447,
+                            -33.7985579699999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "22a77c22-0bf2-5971-9157-d54f1f9cc0f4",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "acffcf67-e765-5d87-a306-49e0a186b89e",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "12101139801",
+        "sa2_code": "121011398",
+        "sa2_name": "Chatswood (East) - Artarmon",
+        "sa3_code": "12101",
+        "sa3_name": "Chatswood - Lane Cove",
+        "sa4_code": "121",
+        "sa4_name": "Sydney - North Sydney and Hornsby",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,63 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            150.425778603,
+                            -31.398805883
+                        ],
+                        [
+                            150.417667244,
+                            -31.397630948
+                        ],
+                        [
+                            150.418904594,
+                            -31.3910362349999
+                        ],
+                        [
+                            150.429741408,
+                            -31.3925811509999
+                        ],
+                        [
+                            150.429876458,
+                            -31.394000175
+                        ],
+                        [
+                            150.429663444,
+                            -31.3950561739999
+                        ],
+                        [
+                            150.428496466,
+                            -31.395945191
+                        ],
+                        [
+                            150.425778603,
+                            -31.398805883
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "3e811b2d-1b5d-5815-b0ae-603418316fe6",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "d9408332-9696-5c08-a7a9-1c69976bdd39",
+    "properties": {
+        "gccsa_code": "1RNSW",
+        "gccsa_name": "Rest of NSW",
+        "sa1_code": "11004120122",
+        "sa2_code": "110041201",
+        "sa2_name": "Quirindi",
+        "sa3_code": "11004",
+        "sa3_name": "Tamworth - Gunnedah",
+        "sa4_code": "110",
+        "sa4_name": "New England and North West",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

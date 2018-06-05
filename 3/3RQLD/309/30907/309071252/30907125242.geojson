@@ -1,0 +1,63 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            153.319043886,
+                            -27.885554003
+                        ],
+                        [
+                            153.316992002,
+                            -27.885513137
+                        ],
+                        [
+                            153.31705741,
+                            -27.8852029289999
+                        ],
+                        [
+                            153.31734649,
+                            -27.88353151
+                        ],
+                        [
+                            153.31887073,
+                            -27.883511456
+                        ],
+                        [
+                            153.319253761,
+                            -27.883792082
+                        ],
+                        [
+                            153.319376802,
+                            -27.883845214
+                        ],
+                        [
+                            153.319043886,
+                            -27.885554003
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "f0341e73-2122-58e8-9626-2bbbdbece756",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "ce67fa55-6538-5c51-b1f5-340e9c251591",
+    "properties": {
+        "gccsa_code": "3RQLD",
+        "gccsa_name": "Rest of Qld",
+        "sa1_code": "30907125242",
+        "sa2_code": "309071252",
+        "sa2_name": "Helensvale",
+        "sa3_code": "30907",
+        "sa3_name": "Ormeau - Oxenford",
+        "sa4_code": "309",
+        "sa4_name": "Gold Coast",
+        "state_code": "3",
+        "state_name": "Queensland"
+    },
+    "type": "FeatureCollection"
+}

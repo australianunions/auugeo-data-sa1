@@ -1,0 +1,51 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            144.967756322,
+                            -37.7959897769999
+                        ],
+                        [
+                            144.967919185,
+                            -37.795031125
+                        ],
+                        [
+                            144.96881245,
+                            -37.795129601
+                        ],
+                        [
+                            144.968736165,
+                            -37.795576172
+                        ],
+                        [
+                            144.967756322,
+                            -37.7959897769999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "d60610ec-d959-50ab-b509-6b9cb4d83006",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "8aa90161-e079-55d0-b045-37df384a64c9",
+    "properties": {
+        "gccsa_code": "2GMEL",
+        "gccsa_name": "Greater Melbourne",
+        "sa1_code": "20604111722",
+        "sa2_code": "206041117",
+        "sa2_name": "Carlton",
+        "sa3_code": "20604",
+        "sa3_name": "Melbourne City",
+        "sa4_code": "206",
+        "sa4_name": "Melbourne - Inner",
+        "state_code": "2",
+        "state_name": "Victoria"
+    },
+    "type": "FeatureCollection"
+}

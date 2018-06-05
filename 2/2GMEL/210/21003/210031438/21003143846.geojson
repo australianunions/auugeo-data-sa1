@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            144.929824208,
+                            -37.706448871
+                        ],
+                        [
+                            144.928598757,
+                            -37.7063021659999
+                        ],
+                        [
+                            144.929065301,
+                            -37.7038371519999
+                        ],
+                        [
+                            144.930287868,
+                            -37.7039852999999
+                        ],
+                        [
+                            144.931487769,
+                            -37.704130654
+                        ],
+                        [
+                            144.932673252,
+                            -37.7042745649999
+                        ],
+                        [
+                            144.932214593,
+                            -37.706734973
+                        ],
+                        [
+                            144.931021555,
+                            -37.706592153
+                        ],
+                        [
+                            144.929824208,
+                            -37.706448871
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "f634e8cf-1705-5a22-8cd0-303aed2ad807",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "57710bc8-2e35-5a1a-bceb-dbddbaafec0c",
+    "properties": {
+        "gccsa_code": "2GMEL",
+        "gccsa_name": "Greater Melbourne",
+        "sa1_code": "21003143846",
+        "sa2_code": "210031438",
+        "sa2_name": "Glenroy",
+        "sa3_code": "21003",
+        "sa3_name": "Moreland - North",
+        "sa4_code": "210",
+        "sa4_name": "Melbourne - North West",
+        "state_code": "2",
+        "state_name": "Victoria"
+    },
+    "type": "FeatureCollection"
+}

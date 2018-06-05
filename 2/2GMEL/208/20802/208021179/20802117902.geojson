@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            145.004019839,
+                            -37.8786388419999
+                        ],
+                        [
+                            145.004207777,
+                            -37.8776856659999
+                        ],
+                        [
+                            145.005385705,
+                            -37.8778310939999
+                        ],
+                        [
+                            145.007173439,
+                            -37.878051689
+                        ],
+                        [
+                            145.006984114,
+                            -37.879008213
+                        ],
+                        [
+                            145.006938014,
+                            -37.8792422189999
+                        ],
+                        [
+                            145.00682282,
+                            -37.879825672
+                        ],
+                        [
+                            145.003857852,
+                            -37.8794615369999
+                        ],
+                        [
+                            145.004019839,
+                            -37.8786388419999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "c70ea35b-9e59-5d4e-8743-1e574059f414",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "072626e8-d849-5a0f-8afa-a09faf8f3cd0",
+    "properties": {
+        "gccsa_code": "2GMEL",
+        "gccsa_name": "Greater Melbourne",
+        "sa1_code": "20802117902",
+        "sa2_code": "208021179",
+        "sa2_name": "Elsternwick",
+        "sa3_code": "20802",
+        "sa3_name": "Glen Eira",
+        "sa4_code": "208",
+        "sa4_name": "Melbourne - Inner South",
+        "state_code": "2",
+        "state_name": "Victoria"
+    },
+    "type": "FeatureCollection"
+}

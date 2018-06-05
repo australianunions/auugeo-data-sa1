@@ -1,0 +1,59 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            153.363254986,
+                            -29.4479170029999
+                        ],
+                        [
+                            153.360947747,
+                            -29.4471897679999
+                        ],
+                        [
+                            153.361076374,
+                            -29.4454847709999
+                        ],
+                        [
+                            153.36134578,
+                            -29.444363763
+                        ],
+                        [
+                            153.363586004,
+                            -29.446844391
+                        ],
+                        [
+                            153.36354808,
+                            -29.447042508
+                        ],
+                        [
+                            153.363254986,
+                            -29.4479170029999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "afccbbc6-565c-5bf0-b88e-22ae8b9262ab",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "45abb80d-4326-5cc7-9f12-d04940fbe93f",
+    "properties": {
+        "gccsa_code": "1RNSW",
+        "gccsa_name": "Rest of NSW",
+        "sa1_code": "10401108201",
+        "sa2_code": "104011082",
+        "sa2_name": "Maclean - Yamba - Iluka",
+        "sa3_code": "10401",
+        "sa3_name": "Clarence Valley",
+        "sa4_code": "104",
+        "sa4_name": "Coffs Harbour - Grafton",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

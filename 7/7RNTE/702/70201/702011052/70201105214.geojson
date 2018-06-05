@@ -1,0 +1,51 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            134.609600793,
+                            -22.040908814
+                        ],
+                        [
+                            134.61055618,
+                            -22.032634929
+                        ],
+                        [
+                            134.616497212,
+                            -22.0327462999999
+                        ],
+                        [
+                            134.615591465,
+                            -22.042065545
+                        ],
+                        [
+                            134.609600793,
+                            -22.040908814
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "b23b6b9a-73cc-5b70-aade-9a8e2c9e1d11",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "f7e31c47-5a6b-5c79-b75b-d2cf36a80a6a",
+    "properties": {
+        "gccsa_code": "7RNTE",
+        "gccsa_name": "Rest of NT",
+        "sa1_code": "70201105214",
+        "sa2_code": "702011052",
+        "sa2_name": "Sandover - Plenty",
+        "sa3_code": "70201",
+        "sa3_name": "Alice Springs",
+        "sa4_code": "702",
+        "sa4_name": "Northern Territory - Outback",
+        "state_code": "7",
+        "state_name": "Northern Territory"
+    },
+    "type": "FeatureCollection"
+}

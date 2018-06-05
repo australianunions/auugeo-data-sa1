@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            150.943156576,
+                            -33.8766065099999
+                        ],
+                        [
+                            150.9431922,
+                            -33.876551343
+                        ],
+                        [
+                            150.943503327,
+                            -33.876061351
+                        ],
+                        [
+                            150.943609103,
+                            -33.875894796
+                        ],
+                        [
+                            150.946861326,
+                            -33.877878384
+                        ],
+                        [
+                            150.946306928,
+                            -33.878516949
+                        ],
+                        [
+                            150.94575972,
+                            -33.879149464
+                        ],
+                        [
+                            150.94271124,
+                            -33.8773083259999
+                        ],
+                        [
+                            150.943156576,
+                            -33.8766065099999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "552f36b9-7650-5254-afd8-4cbbcf01fb3a",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "032cb16c-3327-5caa-9f3b-86695419a695",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "12702151542",
+        "sa2_code": "127021515",
+        "sa2_name": "Fairfield",
+        "sa3_code": "12702",
+        "sa3_name": "Fairfield",
+        "sa4_code": "127",
+        "sa4_name": "Sydney - South West",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

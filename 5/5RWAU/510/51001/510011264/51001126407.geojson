@@ -1,0 +1,51 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            127.969374319,
+                            -20.1621789619999
+                        ],
+                        [
+                            127.969374026,
+                            -20.1282298699999
+                        ],
+                        [
+                            127.994871868,
+                            -20.127752663
+                        ],
+                        [
+                            127.994466134,
+                            -20.162178777
+                        ],
+                        [
+                            127.969374319,
+                            -20.1621789619999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "4be1ea13-ab02-5bf6-a6e1-f440e80bbdb1",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "e6244cd4-ffe3-5bf1-9ad0-920ca85efe94",
+    "properties": {
+        "gccsa_code": "5RWAU",
+        "gccsa_name": "Rest of WA",
+        "sa1_code": "51001126407",
+        "sa2_code": "510011264",
+        "sa2_name": "Halls Creek",
+        "sa3_code": "51001",
+        "sa3_name": "Kimberley",
+        "sa4_code": "510",
+        "sa4_name": "Western Australia - Outback (North)",
+        "state_code": "5",
+        "state_name": "Western Australia"
+    },
+    "type": "FeatureCollection"
+}

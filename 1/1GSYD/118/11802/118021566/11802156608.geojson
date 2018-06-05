@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.242305065,
+                            -33.938189994
+                        ],
+                        [
+                            151.24244278,
+                            -33.937493044
+                        ],
+                        [
+                            151.245231599,
+                            -33.937881062
+                        ],
+                        [
+                            151.245090709,
+                            -33.938594182
+                        ],
+                        [
+                            151.244947446,
+                            -33.939306987
+                        ],
+                        [
+                            151.24479265,
+                            -33.940075588
+                        ],
+                        [
+                            151.242007919,
+                            -33.93968818
+                        ],
+                        [
+                            151.242161547,
+                            -33.9389210219999
+                        ],
+                        [
+                            151.242305065,
+                            -33.938189994
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "6b073f57-2cde-5840-9e21-cb21739c16b5",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "f5d40826-7d47-5699-b89f-46e41892c568",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "11802156608",
+        "sa2_code": "118021566",
+        "sa2_name": "Maroubra - North",
+        "sa3_code": "11802",
+        "sa3_name": "Eastern Suburbs - South",
+        "sa4_code": "118",
+        "sa4_name": "Sydney - Eastern Suburbs",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

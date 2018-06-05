@@ -1,0 +1,75 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.200891289,
+                            -33.793423554
+                        ],
+                        [
+                            151.200478438,
+                            -33.7924527289999
+                        ],
+                        [
+                            151.203561848,
+                            -33.791518257
+                        ],
+                        [
+                            151.203981598,
+                            -33.7924797389999
+                        ],
+                        [
+                            151.204358168,
+                            -33.7933380649999
+                        ],
+                        [
+                            151.202209012,
+                            -33.793990005
+                        ],
+                        [
+                            151.202046988,
+                            -33.794038993
+                        ],
+                        [
+                            151.200006128,
+                            -33.794658355
+                        ],
+                        [
+                            151.199949954,
+                            -33.7945310929999
+                        ],
+                        [
+                            151.199630689,
+                            -33.793808594
+                        ],
+                        [
+                            151.200891289,
+                            -33.793423554
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "5a3f4ec8-93bb-5467-b279-2553004a6bfa",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "ffdf36a7-07a8-54bc-a20a-d03f357093d5",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "12101140263",
+        "sa2_code": "121011402",
+        "sa2_name": "Willoughby - Castle Cove - Northbridge",
+        "sa3_code": "12101",
+        "sa3_name": "Chatswood - Lane Cove",
+        "sa4_code": "121",
+        "sa4_name": "Sydney - North Sydney and Hornsby",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

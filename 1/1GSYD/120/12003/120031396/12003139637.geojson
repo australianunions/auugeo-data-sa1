@@ -1,0 +1,63 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.090951026,
+                            -33.8670723499999
+                        ],
+                        [
+                            151.090401592,
+                            -33.865451916
+                        ],
+                        [
+                            151.090754254,
+                            -33.8655246769999
+                        ],
+                        [
+                            151.090706001,
+                            -33.865620007
+                        ],
+                        [
+                            151.090957815,
+                            -33.866362634
+                        ],
+                        [
+                            151.090976904,
+                            -33.8664239989999
+                        ],
+                        [
+                            151.091182509,
+                            -33.8670246199999
+                        ],
+                        [
+                            151.090951026,
+                            -33.8670723499999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "d2844e10-ff61-5d3b-9c06-b4a9e299bdbc",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "502cafec-9e65-5f12-888c-d5b85c980480",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "12003139637",
+        "sa2_code": "120031396",
+        "sa2_name": "Homebush",
+        "sa3_code": "12003",
+        "sa3_name": "Strathfield - Burwood - Ashfield",
+        "sa4_code": "120",
+        "sa4_name": "Sydney - Inner West",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

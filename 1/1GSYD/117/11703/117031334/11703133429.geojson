@@ -1,0 +1,51 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.198490173,
+                            -33.8815714469999
+                        ],
+                        [
+                            151.197642314,
+                            -33.880092761
+                        ],
+                        [
+                            151.198557114,
+                            -33.879728977
+                        ],
+                        [
+                            151.199408513,
+                            -33.8812082919999
+                        ],
+                        [
+                            151.198490173,
+                            -33.8815714469999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "6a7d528d-851c-5fb4-8fa7-92f7b595a7b7",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "7a56ab10-c566-5d13-a865-53a8f156cbe4",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "11703133429",
+        "sa2_code": "117031334",
+        "sa2_name": "Pyrmont - Ultimo",
+        "sa3_code": "11703",
+        "sa3_name": "Sydney Inner City",
+        "sa4_code": "117",
+        "sa4_name": "Sydney - City and Inner South",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            149.169724944,
+                            -21.167858979
+                        ],
+                        [
+                            149.16994993,
+                            -21.1661070289999
+                        ],
+                        [
+                            149.173463858,
+                            -21.1665590019999
+                        ],
+                        [
+                            149.174415012,
+                            -21.1666840249999
+                        ],
+                        [
+                            149.174025995,
+                            -21.169351004
+                        ],
+                        [
+                            149.173061008,
+                            -21.169224001
+                        ],
+                        [
+                            149.170078995,
+                            -21.1688189989999
+                        ],
+                        [
+                            149.16959599,
+                            -21.168770992
+                        ],
+                        [
+                            149.169724944,
+                            -21.167858979
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "55660b2c-27f5-5eac-b96e-70dbd5556e5b",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "72250e9d-abe7-5906-b6b7-c6eed97e3ebb",
+    "properties": {
+        "gccsa_code": "3RQLD",
+        "gccsa_name": "Rest of Qld",
+        "sa1_code": "31202135617",
+        "sa2_code": "312021356",
+        "sa2_name": "South Mackay",
+        "sa3_code": "31202",
+        "sa3_name": "Mackay",
+        "sa4_code": "312",
+        "sa4_name": "Mackay - Isaac - Whitsunday",
+        "state_code": "3",
+        "state_name": "Queensland"
+    },
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,63 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.137818705,
+                            -33.957928458
+                        ],
+                        [
+                            151.137815347,
+                            -33.95788404
+                        ],
+                        [
+                            151.138047378,
+                            -33.957864726
+                        ],
+                        [
+                            151.139193258,
+                            -33.958124799
+                        ],
+                        [
+                            151.139097993,
+                            -33.958415045
+                        ],
+                        [
+                            151.139063245,
+                            -33.9585076559999
+                        ],
+                        [
+                            151.137870316,
+                            -33.9585677069999
+                        ],
+                        [
+                            151.137818705,
+                            -33.957928458
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "2388ce0a-146b-571d-bb6c-b4c8dd92fbf9",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "e5e21c53-07ec-5476-b2b4-139b5a07cb3e",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "11904138125",
+        "sa2_code": "119041381",
+        "sa2_name": "Rockdale - Banksia",
+        "sa3_code": "11904",
+        "sa3_name": "Kogarah - Rockdale",
+        "sa4_code": "119",
+        "sa4_name": "Sydney - Inner South West",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

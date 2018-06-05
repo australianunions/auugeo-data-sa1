@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.207615684,
+                            -33.8794924169999
+                        ],
+                        [
+                            151.207063549,
+                            -33.8793859859999
+                        ],
+                        [
+                            151.207178159,
+                            -33.8789803189999
+                        ],
+                        [
+                            151.207274665,
+                            -33.879003573
+                        ],
+                        [
+                            151.207728615,
+                            -33.8790974789999
+                        ],
+                        [
+                            151.208405033,
+                            -33.8791907369999
+                        ],
+                        [
+                            151.208506758,
+                            -33.8791919399999
+                        ],
+                        [
+                            151.208458651,
+                            -33.879654903
+                        ],
+                        [
+                            151.207615684,
+                            -33.8794924169999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "834ee2e9-e096-533d-813a-1f5317b950cb",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "1440ed04-b5d7-5d70-83c7-92758c6fb0f1",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "11703133758",
+        "sa2_code": "117031337",
+        "sa2_name": "Sydney - Haymarket - The Rocks",
+        "sa3_code": "11703",
+        "sa3_name": "Sydney Inner City",
+        "sa4_code": "117",
+        "sa4_name": "Sydney - City and Inner South",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

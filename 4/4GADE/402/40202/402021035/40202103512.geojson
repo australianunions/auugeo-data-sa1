@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            138.560793318,
+                            -34.687746595
+                        ],
+                        [
+                            138.560981402,
+                            -34.6878580759999
+                        ],
+                        [
+                            138.561018486,
+                            -34.68821568
+                        ],
+                        [
+                            138.561437543,
+                            -34.6895253879999
+                        ],
+                        [
+                            138.555449645,
+                            -34.6908988829999
+                        ],
+                        [
+                            138.555344014,
+                            -34.69093
+                        ],
+                        [
+                            138.554753991,
+                            -34.6892250029999
+                        ],
+                        [
+                            138.554864294,
+                            -34.6892000469999
+                        ],
+                        [
+                            138.56047095,
+                            -34.687891005
+                        ],
+                        [
+                            138.560793318,
+                            -34.687746595
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "d3cf3a9b-b0f7-5f53-8760-6d7f92bdefad",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "d5c767f5-561d-54ee-8d5b-e293d719ecd3",
+    "properties": {
+        "gccsa_code": "4GADE",
+        "gccsa_name": "Greater Adelaide",
+        "sa1_code": "40202103512",
+        "sa2_code": "402021035",
+        "sa2_name": "Virginia - Waterloo Corner",
+        "sa3_code": "40202",
+        "sa3_name": "Playford",
+        "sa4_code": "402",
+        "sa4_name": "Adelaide - North",
+        "state_code": "4",
+        "state_name": "South Australia"
+    },
+    "type": "FeatureCollection"
+}

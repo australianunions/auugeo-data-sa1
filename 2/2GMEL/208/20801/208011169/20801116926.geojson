@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            144.991590494,
+                            -37.8980168329999
+                        ],
+                        [
+                            144.989537405,
+                            -37.897785084
+                        ],
+                        [
+                            144.989926897,
+                            -37.895707349
+                        ],
+                        [
+                            144.991983599,
+                            -37.8959509749999
+                        ],
+                        [
+                            144.993348005,
+                            -37.896112628
+                        ],
+                        [
+                            144.994701681,
+                            -37.896272524
+                        ],
+                        [
+                            144.99431135,
+                            -37.898323822
+                        ],
+                        [
+                            144.992955959,
+                            -37.89817092
+                        ],
+                        [
+                            144.991590494,
+                            -37.8980168329999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "0cf6472b-d845-5d95-ad10-8a07315345b1",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "9f19bbf7-f834-54c8-a504-19fb07462a48",
+    "properties": {
+        "gccsa_code": "2GMEL",
+        "gccsa_name": "Greater Melbourne",
+        "sa1_code": "20801116926",
+        "sa2_code": "208011169",
+        "sa2_name": "Brighton (Vic.)",
+        "sa3_code": "20801",
+        "sa3_name": "Bayside",
+        "sa4_code": "208",
+        "sa4_name": "Melbourne - Inner South",
+        "state_code": "2",
+        "state_name": "Victoria"
+    },
+    "type": "FeatureCollection"
+}

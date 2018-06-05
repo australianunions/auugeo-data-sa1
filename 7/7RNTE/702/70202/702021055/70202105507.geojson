@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            137.831891019,
+                            -21.00295699
+                        ],
+                        [
+                            137.815498102,
+                            -20.974638985
+                        ],
+                        [
+                            137.852299994,
+                            -20.964981004
+                        ],
+                        [
+                            137.857019006,
+                            -20.9801670059999
+                        ],
+                        [
+                            137.853086204,
+                            -20.983609283
+                        ],
+                        [
+                            137.848431906,
+                            -20.9890675039999
+                        ],
+                        [
+                            137.846739,
+                            -20.990745991
+                        ],
+                        [
+                            137.839129005,
+                            -20.998322999
+                        ],
+                        [
+                            137.831891019,
+                            -21.00295699
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "0a91e771-b837-5436-8d3b-195a3b2040ec",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "6e8a96fa-d5d9-5e10-8cd4-3bb0bdeeeb00",
+    "properties": {
+        "gccsa_code": "7RNTE",
+        "gccsa_name": "Rest of NT",
+        "sa1_code": "70202105507",
+        "sa2_code": "702021055",
+        "sa2_name": "Barkly",
+        "sa3_code": "70202",
+        "sa3_name": "Barkly",
+        "sa4_code": "702",
+        "sa4_name": "Northern Territory - Outback",
+        "state_code": "7",
+        "state_name": "Northern Territory"
+    },
+    "type": "FeatureCollection"
+}

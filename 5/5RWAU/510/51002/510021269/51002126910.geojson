@@ -1,0 +1,67 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            118.623753134,
+                            -20.3143426089999
+                        ],
+                        [
+                            118.62349778,
+                            -20.31427192
+                        ],
+                        [
+                            118.622630832,
+                            -20.3140614829999
+                        ],
+                        [
+                            118.622878996,
+                            -20.313135003
+                        ],
+                        [
+                            118.62501472,
+                            -20.312292531
+                        ],
+                        [
+                            118.625536123,
+                            -20.313465376
+                        ],
+                        [
+                            118.625585106,
+                            -20.313602294
+                        ],
+                        [
+                            118.624172045,
+                            -20.314210814
+                        ],
+                        [
+                            118.623753134,
+                            -20.3143426089999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "1a4b1474-c5f7-5ada-be68-4f8c7f7f21a6",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "81a79a15-64d0-51b4-aeed-87ef0c297992",
+    "properties": {
+        "gccsa_code": "5RWAU",
+        "gccsa_name": "Rest of WA",
+        "sa1_code": "51002126910",
+        "sa2_code": "510021269",
+        "sa2_name": "Port Hedland",
+        "sa3_code": "51002",
+        "sa3_name": "East Pilbara",
+        "sa4_code": "510",
+        "sa4_name": "Western Australia - Outback (North)",
+        "state_code": "5",
+        "state_name": "Western Australia"
+    },
+    "type": "FeatureCollection"
+}

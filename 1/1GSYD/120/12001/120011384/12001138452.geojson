@@ -1,0 +1,63 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.085801533,
+                            -33.855993273
+                        ],
+                        [
+                            151.08556348,
+                            -33.855230241
+                        ],
+                        [
+                            151.085669403,
+                            -33.8552093719999
+                        ],
+                        [
+                            151.086717099,
+                            -33.8549793989999
+                        ],
+                        [
+                            151.086866676,
+                            -33.8549525
+                        ],
+                        [
+                            151.087090676,
+                            -33.855683176
+                        ],
+                        [
+                            151.086267273,
+                            -33.8558719869999
+                        ],
+                        [
+                            151.085801533,
+                            -33.855993273
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "63904f3e-42f1-5368-9aa4-22fb4accffc6",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "7067784f-c251-5f5d-85d5-bdfe348cf57c",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "12001138452",
+        "sa2_code": "120011384",
+        "sa2_name": "Concord West - North Strathfield",
+        "sa3_code": "12001",
+        "sa3_name": "Canada Bay",
+        "sa4_code": "120",
+        "sa4_name": "Sydney - Inner West",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

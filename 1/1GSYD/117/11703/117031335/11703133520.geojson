@@ -1,0 +1,75 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.196484242,
+                            -33.887908178
+                        ],
+                        [
+                            151.196520414,
+                            -33.887782896
+                        ],
+                        [
+                            151.196592429,
+                            -33.88765088
+                        ],
+                        [
+                            151.196924068,
+                            -33.887362964
+                        ],
+                        [
+                            151.196971627,
+                            -33.8873798729999
+                        ],
+                        [
+                            151.197347504,
+                            -33.887361633
+                        ],
+                        [
+                            151.197477115,
+                            -33.887354917
+                        ],
+                        [
+                            151.197512411,
+                            -33.887853714
+                        ],
+                        [
+                            151.197445105,
+                            -33.887863797
+                        ],
+                        [
+                            151.197192927,
+                            -33.8878754519999
+                        ],
+                        [
+                            151.196484242,
+                            -33.887908178
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "746973a9-e898-58cc-9c2f-ae3f5f4f5bad",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "2760df94-f8f0-5a75-9c78-5d85dabe6b81",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "11703133520",
+        "sa2_code": "117031335",
+        "sa2_name": "Redfern - Chippendale",
+        "sa3_code": "11703",
+        "sa3_name": "Sydney Inner City",
+        "sa4_code": "117",
+        "sa4_name": "Sydney - City and Inner South",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

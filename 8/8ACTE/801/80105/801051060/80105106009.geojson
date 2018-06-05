@@ -1,0 +1,55 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            149.130934643,
+                            -35.2689821289999
+                        ],
+                        [
+                            149.129394123,
+                            -35.2688149809999
+                        ],
+                        [
+                            149.129834022,
+                            -35.266092003
+                        ],
+                        [
+                            149.131047975,
+                            -35.266222984
+                        ],
+                        [
+                            149.131374613,
+                            -35.2662591329999
+                        ],
+                        [
+                            149.130934643,
+                            -35.2689821289999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "e499adb1-4a88-543c-a70b-e6dac617a078",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "a66e93f1-2fe7-5b5a-b46b-fdd9630fb379",
+    "properties": {
+        "gccsa_code": "8ACTE",
+        "gccsa_name": "Australian Capital Territory",
+        "sa1_code": "80105106009",
+        "sa2_code": "801051060",
+        "sa2_name": "Turner",
+        "sa3_code": "80105",
+        "sa3_name": "North Canberra",
+        "sa4_code": "801",
+        "sa4_name": "Australian Capital Territory",
+        "state_code": "8",
+        "state_name": "Australian Capital Territory"
+    },
+    "type": "FeatureCollection"
+}

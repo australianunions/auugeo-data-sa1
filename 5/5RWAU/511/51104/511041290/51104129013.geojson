@@ -1,0 +1,55 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            118.685981984,
+                            -26.129215008
+                        ],
+                        [
+                            118.663451009,
+                            -26.1292089959999
+                        ],
+                        [
+                            118.661742006,
+                            -26.126751992
+                        ],
+                        [
+                            118.660738986,
+                            -26.1212090029999
+                        ],
+                        [
+                            118.685226982,
+                            -26.1212159959999
+                        ],
+                        [
+                            118.685981984,
+                            -26.129215008
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "048a96db-ad08-57c2-88ca-e7edd3080ce0",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "bf865eb0-d364-57d3-a026-11aa15c17868",
+    "properties": {
+        "gccsa_code": "5RWAU",
+        "gccsa_name": "Rest of WA",
+        "sa1_code": "51104129013",
+        "sa2_code": "511041290",
+        "sa2_name": "Meekatharra",
+        "sa3_code": "51104",
+        "sa3_name": "Mid West",
+        "sa4_code": "511",
+        "sa4_name": "Western Australia - Outback (South)",
+        "state_code": "5",
+        "state_name": "Western Australia"
+    },
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,51 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            131.061109008,
+                            -25.3597239919999
+                        ],
+                        [
+                            131.061112001,
+                            -25.341665994
+                        ],
+                        [
+                            131.07360701,
+                            -25.3416679919999
+                        ],
+                        [
+                            131.07361201,
+                            -25.359719995
+                        ],
+                        [
+                            131.061109008,
+                            -25.3597239919999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "eb6be3f5-c6ee-55d9-877d-ea130a0a5ba0",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "018fa7c5-f1ad-5694-98d1-832fa89939a0",
+    "properties": {
+        "gccsa_code": "7RNTE",
+        "gccsa_name": "Rest of NT",
+        "sa1_code": "70201105003",
+        "sa2_code": "702011050",
+        "sa2_name": "Petermann - Simpson",
+        "sa3_code": "70201",
+        "sa3_name": "Alice Springs",
+        "sa4_code": "702",
+        "sa4_name": "Northern Territory - Outback",
+        "state_code": "7",
+        "state_name": "Northern Territory"
+    },
+    "type": "FeatureCollection"
+}

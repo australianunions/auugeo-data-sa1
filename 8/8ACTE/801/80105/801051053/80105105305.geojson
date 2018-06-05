@@ -1,0 +1,59 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            149.124674965,
+                            -35.276935002
+                        ],
+                        [
+                            149.125354011,
+                            -35.2773410029999
+                        ],
+                        [
+                            149.124519001,
+                            -35.2782830039999
+                        ],
+                        [
+                            149.123885032,
+                            -35.2790129589999
+                        ],
+                        [
+                            149.123209199,
+                            -35.278608345
+                        ],
+                        [
+                            149.12459003,
+                            -35.2770548629999
+                        ],
+                        [
+                            149.124674965,
+                            -35.276935002
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "b6c7c07a-20eb-5637-b909-8b111534a95e",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "e6f6085a-6dc9-5909-bdc9-074ce064bb02",
+    "properties": {
+        "gccsa_code": "8ACTE",
+        "gccsa_name": "Australian Capital Territory",
+        "sa1_code": "80105105305",
+        "sa2_code": "801051053",
+        "sa2_name": "Civic",
+        "sa3_code": "80105",
+        "sa3_name": "North Canberra",
+        "sa4_code": "801",
+        "sa4_name": "Australian Capital Territory",
+        "state_code": "8",
+        "state_name": "Australian Capital Territory"
+    },
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,75 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            150.863388783,
+                            -33.68484648
+                        ],
+                        [
+                            150.862841137,
+                            -33.683849922
+                        ],
+                        [
+                            150.863042873,
+                            -33.6837690959999
+                        ],
+                        [
+                            150.86665619,
+                            -33.681852089
+                        ],
+                        [
+                            150.86734958,
+                            -33.6827723339999
+                        ],
+                        [
+                            150.866805585,
+                            -33.683062599
+                        ],
+                        [
+                            150.867442437,
+                            -33.683909307
+                        ],
+                        [
+                            150.868074252,
+                            -33.6847487439999
+                        ],
+                        [
+                            150.864400782,
+                            -33.686688229
+                        ],
+                        [
+                            150.863880511,
+                            -33.6857413989999
+                        ],
+                        [
+                            150.863388783,
+                            -33.68484648
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "f51bbe55-514d-5267-a43c-8d88af9cba5b",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "876bf7d6-d9e1-50c6-8e51-9db403adcddc",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "11602131208",
+        "sa2_code": "116021312",
+        "sa2_name": "Riverstone - Marsden Park",
+        "sa3_code": "11602",
+        "sa3_name": "Blacktown - North",
+        "sa4_code": "116",
+        "sa4_name": "Sydney - Blacktown",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}

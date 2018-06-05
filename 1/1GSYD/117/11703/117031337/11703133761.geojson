@@ -1,0 +1,75 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            151.203385808,
+                            -33.863070818
+                        ],
+                        [
+                            151.203420301,
+                            -33.86250975
+                        ],
+                        [
+                            151.203413877,
+                            -33.8624639069999
+                        ],
+                        [
+                            151.20342125,
+                            -33.862440153
+                        ],
+                        [
+                            151.203873813,
+                            -33.862535779
+                        ],
+                        [
+                            151.203877938,
+                            -33.862777649
+                        ],
+                        [
+                            151.203892319,
+                            -33.863034058
+                        ],
+                        [
+                            151.203896407,
+                            -33.86306932
+                        ],
+                        [
+                            151.203757999,
+                            -33.863047009
+                        ],
+                        [
+                            151.203576996,
+                            -33.863065009
+                        ],
+                        [
+                            151.203385808,
+                            -33.863070818
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "f00386b1-92ce-5c3f-beda-c8d640ef42d5",
+            "properties": {},
+            "type": "Feature"
+        }
+    ],
+    "id": "2508becb-4803-5d6d-9040-e89f4d5ad193",
+    "properties": {
+        "gccsa_code": "1GSYD",
+        "gccsa_name": "Greater Sydney",
+        "sa1_code": "11703133761",
+        "sa2_code": "117031337",
+        "sa2_name": "Sydney - Haymarket - The Rocks",
+        "sa3_code": "11703",
+        "sa3_name": "Sydney Inner City",
+        "sa4_code": "117",
+        "sa4_name": "Sydney - City and Inner South",
+        "state_code": "1",
+        "state_name": "New South Wales"
+    },
+    "type": "FeatureCollection"
+}
